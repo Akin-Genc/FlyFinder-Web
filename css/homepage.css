@@ -1,0 +1,1745 @@
+body {
+    overflow-x: hidden;
+  }
+
+.plane-icon {
+    position: absolute;
+    width: 25.3px;
+    height: 25.3px;
+    left: 246px;
+    top: 523px;
+    
+    
+    }
+.hero-video {
+    width: 1519.3px;
+    height: auto;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+
+.Nav_Bar {
+    position: absolute;
+    top: 40px;
+    left: 615px;
+}
+
+.Nav_Bar span {
+    color: white;
+    font-size: 15px;
+    font-family: Roboto, sans-serif;
+    font-weight: bold;
+}
+
+.Nav_Bar span:not(:last-child) {
+    margin-right: 30px;
+}
+
+ 
+
+.button2 {
+    width: 44px;
+    height: 17px;
+    position: absolute;
+    left: 1321px;
+    top: 46px;
+    color: white;
+    font-size: 14px;
+    font-family: Roboto, sans-serif;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.buttons {
+    display: flex;
+
+
+}
+.button3 {
+    width: 95px;
+    height: 17px;
+    position: absolute;
+    left: 1400px;
+    top: 41px;
+    font-size: 14px;
+    font-family: Inter, sans-serif;
+    font-weight: 800;
+    word-wrap: break-word;
+}
+
+.button1 {
+    width: 133px;
+    height: 38px;
+    position: absolute;
+    left: 1378px;
+    top: 33px;
+    opacity: 0.91;
+    background: white;
+    border-radius: 20px;
+}
+
+.name{
+    width: 193px;
+    left: 91px;
+    top: 32px;
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    font-family: Roboto,sans-serif;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.Hero_des{
+
+position: absolute;
+width: 716px;
+height: 169px;
+left: 143px;
+top: 214px;
+
+font-family: 'Poppins',sans-serif;
+font-style: normal;
+font-weight: bolder;
+font-size: 64px;
+line-height: 96px;
+letter-spacing: -0.04em;
+
+color: #FFFFFF;
+
+
+}
+
+ 
+.Hero_des1{
+position: absolute;
+width: 621px;
+height: 36px;
+left: 143px;
+top: 426px;
+
+font-family: 'Poppins',sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: -0.04em;
+
+color: #FFFFFF;
+}
+
+
+ 
+ 
+ 
+ 
+.icon-container {
+    display: flex; /* Use flexbox for layout */
+    align-items: center; /* Align items vertically */
+    margin-bottom: 20px; /* Add space between icon and button */
+}
+
+.plane-icon {
+    position: absolute;
+    
+    left: 252px;
+    top: 515px
+    
+}
+
+.button4 {
+    position: absolute;
+    width: 146px;
+    height: 38px;
+    left: 143px;
+    top: 510px;
+    opacity: 0.9;
+    background: #FFFFFF;
+    border-radius: 14px;
+    
+}
+
+ 
+.get-started {
+
+    position: absolute;
+    
+    height: 17px;
+    left: 157px;
+    top: 519px;
+    
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 12.5px;
+    
+    color: #1b1b1b;
+    
+    }
+
+ 
+
+.location-info {
+    display: flex;  
+    
+}
+
+.location{
+
+
+    position: absolute;
+    height: 17px;
+    left: 330px;
+    top: 515px;
+    width: 20px;
+    height: 25px;
+  
+
+}
+
+.location-des{
+
+position: absolute;
+width: 100px;
+height: 18px;
+left: 365px;
+top: 521px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+
+}
+
+ 
+.flight-checker {
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+    position: fixed;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 34.5882px 25.9412px 51.8824px;
+    gap: 34.59px; 
+    position: absolute;
+    width: 950px;
+    height: 150px;
+    left: 270px;
+    top: 600px;
+    background-color: #FFFFFF;
+    border-radius: 32px;
+    
+}
+
+.flight-checker.show {
+    opacity: 0.70;
+}
+
+
+
+.welcom-text {
+     font-family: "Montserrat", sans-serif;
+     width: 1279.76px;
+height: 26px;
+font-style: normal;
+font-weight: 600;
+font-size: 21.6176px;
+line-height: 26px;
+
+position: absolute;
+left: 30px;
+top: 30px;
+
+/* Blackish Green */
+color: #112211;
+
+}
+
+.flight-des1{
+font-family: "Montserrat", sans-serif;
+
+padding: 5px;
+background-color: rgb(255, 255, 255);
+width: 60px;
+height: 10px;
+font-size: small;
+position: absolute;
+left:40px;
+top:87px;
+ color: #112211;
+  
+
+ z-index: 1;
+}
+
+.flight-des2{
+    font-family: "Montserrat", sans-serif;
+    
+    padding: 5px;
+    background-color: rgb(255, 255, 255);
+    width: 20px;
+    height: 10px;
+    font-size: small;
+    position: absolute;
+    left:310px;
+    top:87px;
+     color: #112211;
+      
+    
+     z-index: 1;
+    }
+
+    .flight-des3{
+        font-family: "Montserrat", sans-serif;
+        
+        padding: 5px;
+        background-color: rgb(255, 255, 255);
+        width: 100px;
+        height: 10px;
+        font-size: small;
+        position: absolute;
+        left:455px;
+        top:87px;
+         color: #112211;
+          
+        
+         z-index: 1;
+        }
+
+        .flight-des4{
+            font-family: "Montserrat", sans-serif;
+            
+            padding: 5px;
+            background-color: rgb(255, 255, 255);
+            width: 125px;
+            height: 10px;
+            font-size: small;
+            position: absolute;
+            left:730px;
+            top:87px;
+             color: #112211;
+              
+            
+             z-index: 1;
+            }
+    
+ 
+
+#myInput {
+    width: 222px; /* Adjust the width */
+  height: 20px; /* Adjust the height */
+  padding: 10px; /* Adjust padding if needed */
+  background-color: rgba(255, 255, 255, 0);
+  border-style: solid; /* Adjust border styles */
+  border-width: 1.5px; /* Adjust border width */
+  border-color: #79747E; /* Adjust border color */
+  border-radius: 4.4px; /* Adjust border radius if needed */
+  color: black; /* Default text color */
+  position: absolute;
+  font-family: "Montserrat", sans-serif;
+  left: 29px;
+  top: 100px;
+  z-index: 0;
+  }
+  
+  .placeholder {
+     
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    transform: translateY(-50%);
+    color: #79747E; /* Color for the placeholder text */
+  }
+  
+
+  .airpost-icon {
+
+    position: absolute;
+    left: 240px;
+    top: 108px;
+    width: 30px;
+  }
+
+  #myInput1 {
+
+    width: 100px; /* Adjust the width */
+    height: 20px; /* Adjust the height */
+    padding: 10px; /* Adjust padding if needed */
+    background-color: rgba(255, 255, 255, 0);
+    border-style: solid; /* Adjust border styles */
+    border-width: 1.5px; /* Adjust border width */
+    border-color: #79747E; /* Adjust border color */
+    border-radius: 4.4px; /* Adjust border radius if needed */
+    position: absolute;
+    font-family: "Montserrat", sans-serif;
+    left: 300px;
+    top: 100px;
+     
+  }
+  
+  
+  .downarrow {
+
+    position: absolute;
+    left: 396px;
+    top: 113px;
+    width: 17px;
+    height: auto;
+  }
+ 
+  .placeholder1 {
+    position: absolute; /* Position the placeholder label */
+    top: 50%; /* Align vertically */
+    left: 10px; /* Add left padding */
+    transform: translateY(-50%); /* Adjust vertical alignment */
+    color: #aaa; /* Placeholder text color */
+    font-size: 16px; /* Adjust font size */
+  }
+  
+
+  #myInput2 {
+
+    width: 230px; /* Adjust the width */
+    height: 20px; /* Adjust the height */
+    padding: 10px; /* Adjust padding if needed */
+    background-color: rgba(255, 255, 255, 0);
+    border-style: solid; /* Adjust border styles */
+    border-width: 1.5px; /* Adjust border width */
+    border-color: #79747E; /* Adjust border color */
+    border-radius: 4.4px; /* Adjust border radius if needed */
+    position: absolute;
+    font-family: "Montserrat", sans-serif;
+    left: 445px;
+    top: 100px;
+     
+  }
+  
+  
+ 
+  .placeholder2 {
+    position: absolute; /* Position the placeholder label */
+    top: 50%; /* Align vertically */
+    left: 10px; /* Add left padding */
+    transform: translateY(-50%); /* Adjust vertical alignment */
+    color: #aaa; /* Placeholder text color */
+    font-size: 16px; /* Adjust font size */
+  }
+  
+
+  #myInput3 {
+
+    width: 230px; /* Adjust the width */
+    height: 20px; /* Adjust the height */
+    padding: 10px; /* Adjust padding if needed */
+    background-color: rgba(255, 255, 255, 0);
+    border-style: solid; /* Adjust border styles */
+    border-width: 1.5px; /* Adjust border width */
+    border-color: #79747E; /* Adjust border color */
+    border-radius: 4.4px; /* Adjust border radius if needed */
+    position: absolute;
+    font-family: "Montserrat", sans-serif;
+    left: 720px;
+    top: 100px;
+     
+  }
+  
+  
+ 
+  .placeholder3 {
+    position: absolute; /* Position the placeholder label */
+    top: 50%; /* Align vertically */
+    left: 10px; /* Add left padding */
+    transform: translateY(-50%); /* Adjust vertical alignment */
+    color: #aaa; /* Placeholder text color */
+    font-size: 16px; /* Adjust font size */
+  }
+
+
+  .promo-button {
+    background-color: #FFFFFF; /* White background */
+    width: 100px;
+    height: auto;
+    text-align: center; /* Center the text */
+    color: #000000; /* Black text color */
+    padding: 10px 20px; /* Adjust padding as needed */
+    font-family: "Montserrat", sans-serif;
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Show pointer cursor on hover */
+    transition: background-color 0.3s, color 0.3s; /* Transition effect */
+    font-size: small;
+    position: absolute;
+    left: 680px;
+    top:190px;
+}
+
+.promo-button:hover {
+    background-color: #dadada; /* Change background color on hover */
+  
+}
+
+.show-button {
+    background-color: #DBE2E5; /* White background */
+    width: 90px;
+    height: auto;
+    text-align: center; /* Center the text */
+    color: #000000; /* Black text color */
+    
+    padding: 10px 20px; /* Adjust padding as needed */
+    font-family: "Montserrat", sans-serif;
+    border-radius: 9px; /* Rounded corners */
+    cursor: pointer; /* Show pointer cursor on hover */
+    transition: background-color 0.3s, color 0.3s; /* Transition effect */
+    font-size: small;
+    font-weight: 500;
+    position: absolute;
+    left: 840px;
+    top:190px;
+     text-decoration: none;
+}
+
+.show-button:hover {
+    background-color: #eaeaea; /* Change background color on hover */
+  
+}
+
+
+.papper {
+
+    position: absolute;
+    left: 848px;
+    top: 196px;
+    width: 17px;
+    height: auto;
+    z-index: 1;
+  }
+
+  .plus {
+
+    position: absolute;
+    left: 680px;
+    top: 200px;
+    width: 17px;
+    height: auto;
+    z-index: 1;
+  }
+
+  .flight-ad {
+     
+    position: fixed;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .ad-vid {
+    width: 600px;
+ 
+    position: absolute;
+    left: 150px;
+    top: 1100px;
+    border-radius: 20px;
+}
+
+.infoo{
+
+    position: absolute;
+    left: 150;
+    top: 2000px;
+    font-size: large;
+
+}
+
+.flight-ad {
+    position: relative; /* Set position relative for absolute positioning of video */
+  }
+  
+  .ad-1 {
+    width: 700px; /* Make the video fill its container */
+    height: auto;
+    position: absolute;
+    top:1115px;
+    left: -400px;
+    border-radius: 27px;
+    transition: transform 0.2s ease-in-out;
+    /* Allow the video to adjust its height proportionally */
+  }
+  
+  /* Optionally, you can add styles to control the appearance of the container */
+  .flight-ad {
+    width: 690px; /* Set width to fill the parent container */
+    max-width: 600px; /* Optionally, set a maximum width */
+    margin: 0 auto; /* Center the container horizontally */
+    
+  }
+
+  .ad-1:hover {
+    transform: scale(1.01); /* Scale up the video on hover */
+  }
+
+.travel-des {
+
+width: 600px;
+height: 53px;
+
+font-family: 'Urbanist', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 42px;
+line-height: 53px;
+
+color: #000000;
+position: absolute;
+top:950px;
+left: -400px;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.travel-sub{
+
+/* Explore our latest stories from our active users */
+
+width: 451px;
+height: 27px;
+
+font-family: 'Urbanist', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 19px;
+line-height: 27px;
+/* identical to box height */
+
+color: #404040;
+
+position: absolute;
+top:1012px;
+left: -393px;
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+.ad-2 {
+    width: 700px; /* Make the video fill its container */
+    height: auto;
+    position: absolute;
+    top:1115px;
+    left: 325px;
+    border-radius: 27px;
+    transition: transform 0.2s ease-in-out;
+    /* Allow the video to adjust its height proportionally */
+  }
+  
+  /* Optionally, you can add styles to control the appearance of the container */
+  .flight-ad {
+    width: 680px; /* Set width to fill the parent container */
+    max-width: 600px; /* Optionally, set a maximum width */
+    margin: 0 auto; /* Center the container horizontally */
+    position: absolute;
+    top: -30px;
+    left: 450px;    
+    transition: opacity 0.8s ease-in-out;
+   
+  }
+
+
+
+
+
+
+  .ad-2:hover {
+    transform: scale(1.01); /* Scale up the video on hover */
+  }
+
+  .view-button1 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center; /* Center the text vertically */
+    justify-content: center; /* Center the text horizontally */
+    padding: 18.5241px 29.6385px;
+    gap: 9.26px;
+    margin: 0;
+    width: 180px;
+    height: 55px;
+    font-family: 'Urbanist', sans-serif;
+    background-color: transparent; /* Set the background color to transparent */
+    border: 0.926203px solid rgba(0, 0, 0, 0.45);
+    border-radius: 37.0481px;
+    color: #33333371; /* Text color */
+    font-size: 16px; /* Adjust font size as needed */
+    cursor: pointer; /* Add cursor pointer on hover */
+    transition: background-color 0.3s ease; /* Add a smooth transition */
+    font-weight: 500;
+    position: absolute;
+    top: 955px;
+    left: 825px;
+}
+
+.view-button1:hover {
+    background-color: #f0f0f0; /* Light gray color on hover */
+}
+
+.turkey-des {
+
+
+width: 478px;
+height: 40px;
+
+font-family: 'Urbanist', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 33px;
+line-height: 40px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+position: absolute;
+top: 1400px;
+left: -380px;
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.turkey-des1 {
+
+
+/* Istanbul,Türkiye */
+
+margin: 0 auto;
+width: 160px;
+height: 27px;
+
+font-family: 'Urbanist', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+color: #FFFFFF;
+position: absolute;
+top: 1470px;
+left: -380px;
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+
+.turkey-des2 {
+
+    
+    margin: 0 auto;
+    width: 160px;
+    height: 27px;
+    
+    font-family: 'Urbanist', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 27px;
+    /* identical to box height */
+    
+    color: #FFFFFF;
+    position: absolute;
+    top: 1470px;
+    left: 185px;
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    }
+
+    
+.place-des {
+
+
+    width: 478px;
+    height: 40px;
+    
+    font-family: 'Urbanist', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 33px;
+    line-height: 40px;
+    /* identical to box height */
+    
+    color: #FFFFFF;
+    
+    position: absolute;
+    top: 1400px;
+    left: 350px;
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    }
+    
+    .place-des1 {
+    
+    
+    /* Istanbul,Türkiye */
+    
+    margin: 0 auto;
+    width: 160px;
+    height: 27px;
+    
+    font-family: 'Urbanist', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    
+    color: #FFFFFF;
+    position: absolute;
+    top: 1470px;
+    left: 350px;
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    
+    }
+    
+    .place-des2 {
+    
+        
+        margin: 0 auto;
+        width: 160px;
+        height: 27px;
+        
+        font-family: 'Urbanist', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 27px;
+        /* identical to box height */
+        
+        color: #FFFFFF;
+        position: absolute;
+        top: 1470px;
+        left: 910px;
+        /* Inside auto layout */
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        }
+
+ .view-f {
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 14.82px;
+font-family: 'Urbanist', sans-serif;
+font-weight: 550;
+width: 159.75px;
+height: 27px;
+text-decoration: none;
+color: #4169E1;
+font-size: large;
+position: absolute;
+top:1530px;
+left: -390px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+ }
+
+ .link-icon{
+
+    width: 26px;
+
+    position: absolute;
+    top:1532px;
+    left: -275px;
+ }
+
+ .view-f1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 14.82px;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: 550;
+    width: 159.75px;
+    height: 27px;
+    text-decoration: none;
+    color: #4169E1;
+    font-size: large;
+    position: absolute;
+    top:1530px;
+    left: 345px;
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    
+     }
+
+     .link-icon1{
+
+        width: 26px;
+    
+        position: absolute;
+        top:1532px;
+        left: 460px;
+     }
+
+
+     
+     .hotel-ad {
+        width: 680px; /* Set width to fill the parent container */
+        max-width: 600px; /* Optionally, set a maximum width */
+        margin: 0 auto; /* Center the container horizontally */
+        position: absolute;
+        top: -100px;
+        left: 450px;    
+      }
+    
+      .box {
+position: absolute;
+width: 1551px;
+height: 682px;
+left: -450px;
+top: 1725px;
+
+background: rgba(217, 217, 217, 0.09);
+      }
+
+
+      .hotel-des {
+
+        width: 600px;
+        height: 53px;
+        
+        font-family: 'Urbanist', sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 42px;
+        line-height: 53px;
+        
+        color: #000000;
+        position: absolute;
+        top:1780px;
+        left: -400px;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        }
+        
+        .hotel-sub{
+        
+        
+        width: 451px;
+        height: 27px;
+        
+        font-family: 'Urbanist', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 19px;
+        line-height: 27px;
+        /* identical to box height */
+        
+        color: #404040;
+        
+        position: absolute;
+        top:1840px;
+        left: -393px;
+        /* Inside auto layout */
+        flex: none;
+        order: 1;
+        flex-grow: 0;
+        }
+
+
+        .view-button2 {
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: row;
+            align-items: center; /* Center the text vertically */
+            justify-content: center; /* Center the text horizontally */
+            padding: 18.5241px 29.6385px;
+            gap: 9.26px;
+            margin: 0;
+            width: 180px;
+            height: 55px;
+            font-family: 'Urbanist', sans-serif;
+            background-color: transparent; /* Set the background color to transparent */
+            border: 0.926203px solid rgba(0, 0, 0, 0.45);
+            border-radius: 37.0481px;
+            color: #33333371; /* Text color */
+            font-size: 16px; /* Adjust font size as needed */
+            cursor: pointer; /* Add cursor pointer on hover */
+            transition: background-color 0.3s ease; /* Add a smooth transition */
+            font-weight: 500;
+            position: absolute;
+            top: 1788px;
+            left: 825px;
+        }
+        
+        .view-button2:hover {
+            background-color: #f0f0f0; /* Light gray color on hover */
+        }
+
+        .hotel1 {
+            width: 440px;
+            height: 332px;
+            border-radius: 21px;
+        
+            position: absolute;
+            top: 1930px;
+            left: -400px ;
+            transition: transform 0.2s ease-in-out;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        .hotel1:hover {
+            transform: scale(1.01); /* Scale up the video on hover */
+          }
+
+        .hotel2 {
+
+
+            width: 440px;
+            height: 332px;
+            border-radius: 21px;
+        
+            position: absolute;
+            top: 1930px;
+            left: 80px ;
+            transition: transform 0.2s ease-in-out;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+
+        }
+        .hotel2:hover {
+            transform: scale(1.01); /* Scale up the video on hover */
+          }
+
+        .hotel3 {
+            width: 440px;
+            height: auto;
+            border-radius: 21px;
+        
+            position: absolute;
+            top: 1930px;
+            left: 550px ;
+            transition: transform 0.2s ease-in-out;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+
+        }
+
+        .hotel3:hover {
+            transform: scale(1.01); /* Scale up the video on hover */
+          }
+
+
+          .hotel-des1 {
+
+            position: absolute;
+            width: 125.89px;
+            height: 23px;
+            left: 78.31px;
+            top: 2383.01px;
+
+            font-family: 'Poppins', sans-serif;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 14px;
+            line-height: 23px;
+
+            position: absolute;
+            top: 2190px;
+            left: -380px ;
+            color: #FFFFFF;
+
+          }
+
+          .hotel-loc1 {
+
+        position: absolute;
+        width: 140.7px;
+        height: 41px;
+        left: 85.62px;
+        top: 2406.01px;
+
+        font-family: 'Poppins', sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 27.3816px;
+        line-height: 41px;
+        
+        position: absolute;
+            top: 2210px;
+            left: -380px ;
+
+        color: #FFFFFF;
+
+          }
+
+          .hotel-des2 {
+
+            position: absolute;
+            width: 125.89px;
+            height: 23px;
+            left: 78.31px;
+            top: 2383.01px;
+
+            font-family: 'Poppins', sans-serif;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 14px;
+            line-height: 23px;
+
+            position: absolute;
+            top: 2190px;
+            left: 100px ;
+            color: #FFFFFF;
+
+          }
+
+          .hotel-loc2 {
+
+            position: absolute;
+            width: 140.7px;
+            height: 41px;
+            left: 85.62px;
+            top: 2406.01px;
+    
+            font-family: 'Poppins', sans-serif;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 27.3816px;
+            line-height: 41px;
+            
+            position: absolute;
+                top: 2210px;
+                left: 100px ;
+    
+            color: #FFFFFF;
+    
+              }
+
+
+              .hotel-des3 {
+
+                position: absolute;
+                width: 125.89px;
+                height: 23px;
+                left: 78.31px;
+                top: 2383.01px;
+    
+                font-family: 'Poppins', sans-serif;
+                font-style: normal;
+                font-weight: 600;
+                font-size: 14px;
+                line-height: 23px;
+    
+                position: absolute;
+                top: 2190px;
+                left: 575px ;
+                color: #FFFFFF;
+    
+              }
+    
+              .hotel-loc3 {
+    
+                position: absolute;
+                width: 140.7px;
+                height: 41px;
+                left: 85.62px;
+                top: 2406.01px;
+        
+                font-family: 'Poppins', sans-serif;
+                font-style: normal;
+                font-weight: 600;
+                font-size: 27.3816px;
+                line-height: 41px;
+                
+                position: absolute;
+                    top: 2210px;
+                    left: 575px ;
+        
+                color: #FFFFFF;
+        
+                  }
+
+
+
+.star1{
+display: flex;
+flex-direction: row;
+align-items: center;
+
+padding: 6.33694px;
+gap: 8.45px;
+
+
+
+position: absolute;
+width: 72px;
+height: 25px;
+left: -55px;
+top: 1935px;
+
+background: rgba(12, 17, 31, 0.24);
+box-shadow: inset 7.3931px 0px 21.1231px rgba(255, 255, 255, 0.15);
+backdrop-filter: blur(4.22463px);
+
+border-radius: 48.5832px;
+}
+
+.star2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+    padding: 6.33694px;
+    gap: 8.45px;
+    
+    
+    
+    position: absolute;
+    width: 72px;
+    height: 25px;
+    left: 426px;
+    top: 1935px;
+    
+    background: rgba(12, 17, 31, 0.24);
+    box-shadow: inset 7.3931px 0px 21.1231px rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(4.22463px);
+    /* Note: backdrop-filter has minimal browser support */
+    border-radius: 48.5832px;
+    }
+
+    .star3{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        
+        padding: 6.33694px;
+        gap: 8.45px;
+        
+        position: absolute;
+        width: 72px;
+        height: 25px;
+        left: 895px;
+        top: 1935px;
+        
+        background: rgba(12, 17, 31, 0.24);
+        box-shadow: inset 7.3931px 0px 21.1231px rgba(255, 255, 255, 0.15);
+        backdrop-filter: blur(4.22463px);
+       
+        border-radius: 48.5832px;
+        }
+
+
+        .star1-des{
+
+        width: 30px;
+        height: 34px;
+
+        font-family: 'Poppies', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        
+      
+        letter-spacing: 0.02em;
+
+        color: #FFFFFF;
+        position: absolute;
+        width: 72px;
+        height: 25px;
+        left: -15px;
+        top: 1944px;
+
+            }
+
+
+            .star2-des{
+
+                width: 30px;
+                height: 34px;
+        
+                font-family: 'Poppies', sans-serif;
+                font-style: normal;
+                font-weight: 500;
+                font-size: 18px;
+                
+              
+                letter-spacing: 0.02em;
+        
+                color: #FFFFFF;
+                position: absolute;
+                width: 72px;
+                height: 25px;
+                left: 465px;
+                top: 1944px;
+        
+                    }
+
+                    .star3-des{
+
+                        width: 30px;
+                        height: 34px;
+                
+                        font-family: 'Poppies', sans-serif;
+                        font-style: normal;
+                        font-weight: 500;
+                        font-size: 18px;
+                        
+                      
+                        letter-spacing: 0.02em;
+                
+                        color: #FFFFFF;
+                        position: absolute;
+                        width: 72px;
+                        height: 25px;
+                        left: 935px;
+                        top: 1944px;
+                
+                            }
+        
+
+
+
+            .start-icon1 {
+                position: absolute;
+                width: 17.2px;
+                height: auto;
+                left: -42px;
+                top: 1941.5px;
+            }
+
+            .start-icon2 {
+                position: absolute;
+                width: 17.2px;
+                height: auto;
+                left: 438px;
+                top: 1941.5px;
+            }
+
+
+            .start-icon3 {
+                position: absolute;
+                width: 17.2px;
+                height: auto;
+                left: 906px;
+                top: 1941.5px;
+            }
+
+
+
+
+            .ads {
+               
+                margin: 0 auto; /* Center the container horizontally */
+                position: absolute;
+                top: -80px;
+                left: 440px;    
+              }
+
+.ads1 {
+
+    width: 1250px;
+height: 450px;
+border-radius: 20px;
+position: absolute;
+ 
+left: -300px;
+top: 2500px;
+
+ 
+}
+
+
+.ad-des {
+
+position: absolute;
+width: 600px;
+height: 169px;
+left: 138px;
+top: 2856px;
+
+
+font-family: 'Poppies', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 57px;
+line-height: 86px;
+letter-spacing: -0.04em;
+
+color: #FFFFFF;
+
+position: absolute;
+ 
+left: -250px;
+top: 2580px;
+
+
+}
+
+
+.ad-des1 {
+
+position: absolute;
+width: 450px;
+height: 90px;
+left: 143px;
+top: 3041px;
+
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: -0.04em;
+
+color: #FFFFFF;
+
+
+position: absolute;
+ 
+left: -250px;
+top: 2770px;
+}
+
+.ad-button {
+
+
+  width: 120px;
+  height: 35px;
+  background: #ffffff;
+  border: none;
+  border-radius: 15px;
+  position: absolute;
+  left: -250px;
+  top: 2850px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 13px;
+  line-height: 18px;
+  color: rgba(0, 0, 0, 0.87);
+
+
+ 
+
+}
+
+
+.Footer {
+               
+
+  position: absolute;
+  top: -30px;
+  left: 440px;   
+  }
+
+
+
+
+
+
+  .Footer-box {
+
+
+position: absolute;
+width: 1525px;
+height: 350px;
+left: 0px;
+top: 3000px;
+
+background: #F8FAFF;
+border-radius: 20px;
+
+
+  }
+
+
+  .Footer-name {
+
+width: 99px;
+height: 51px;
+
+font-family: 'Filson Pro', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 160%;
+/* or 51px */
+letter-spacing: 0.06em;
+
+color: #4367FF;
+
+
+position: absolute;
+
+top: 3050px;
+left: 45px;
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+  }
+
+
+.Fly_finder-des{
+width: 270px;
+height: 140px;
+
+font-family: 'Poppins',sans-serif;
+font-style: normal;
+font-size: 14px;
+line-height: 28px;
+/* or 200% */
+
+color: #52525B;
+
+
+position: absolute;
+ top: 3120px;
+ left: 45px;
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+
+.Footer-des1 {
+position: absolute;
+width: 73px;
+height: 18px;
+left: 0px;
+top: 0px;
+
+
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 18px;
+/* identical to box height, or 138% */
+letter-spacing: 1px;
+text-transform: uppercase;
+
+color: #4267FF;
+
+position: absolute;
+
+top: 3050px;
+left: 450px;
+
+
+}
+
+
+.Footer-des2 {
+
+  font-family: 'Poppins', sans-serif;
+
+position: absolute;
+width: 50px;
+height: 154px;
+left: 451px;
+top: 3080px;
+
+
+ 
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 50px;
+
+
+color: #52525B;
+
+}
+
+
+.Footer-des3 {
+  
+  position: absolute;
+  width: 73px;
+  height: 18px;
+  left: 0px;
+  top: 0px;
+  
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 18px;
+ 
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  
+  color: #4267FF;
+  
+  position: absolute;
+  
+  top: 3050px;
+  left: 750px;
+}
+
+.Footer-des4 {
+ 
+
+position: absolute;
+width: 120px;
+height: 154px;
+
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 50px;
+
+
+color: #52525B;
+
+top: 3080px;
+left: 750px;
+
+}
+
+
+.Footer-des5 {
+  
+  position: absolute;
+  width: 73px;
+  height: 18px;
+  left: 0px;
+  top: 0px;
+  
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 18px;
+  
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  
+  color: #4267FF;
+  
+  position: absolute;
+  
+  top: 3050px;
+  left: 1065px;
+}
+
+
+.Footer-des6 {
+ 
+
+  position: absolute;
+  width: 120px;
+  height: 154px;
+  left: 333px;
+  top: 48px;
+  
+   
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 50px;
+
+  
+  color: #52525B;
+  
+  top: 3080px;
+  left: 1065px;
+  
+  }
+
+  .soical{
+
+
+
+width: 150px;
+height: auto;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+position: absolute;
+top: 3270px;
+left: 40px;
+  }
+
+
+
+  
+  .Footer-des7{
+ 
+
+    position: absolute;
+   
+   
+    left: 333px;
+    top: 48px;
+    
+     
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    
+  
+    
+    color: #52525B;
+    
+    top: 3328px;
+    left: 40px;
+    word-spacing: 60px;
+    }
+
+    .Footer-des8{
+ 
+
+      position: absolute;
+     
+     
+      left: 333px;
+      top: 48px;
+      
+       
+      font-family: 'Poppins', sans-serif;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 14px;
+      
+    
+      
+      color: #52525B;
+      
+      top: 3328px;
+      left: 1350px;
+      word-spacing: 10px;
+      }

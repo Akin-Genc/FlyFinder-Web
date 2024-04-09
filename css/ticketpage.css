@@ -1,0 +1,3936 @@
+body {
+    overflow-x: hidden;
+  }
+
+  .hero-video {
+    width: 1519.3px;
+    height: auto;
+    position: absolute;
+    left: 0;
+    top: -100px;
+}
+
+
+.welcome{
+    position: relative;
+
+}
+
+.name{
+    width: 193px;
+    left: 91px;
+    top: 32px;
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    font-family: 'Roboto' ,sans-serif;
+    font-weight: 700;
+    word-wrap: break-word;
+    text-decoration: none; 
+       
+}
+
+.Hero_des{
+
+position: absolute;
+width: 716px;
+height: 169px;
+left: 143px;
+top: 250px;
+
+font-family: 'Poppins',sans-serif;
+font-style: normal;
+font-weight: bolder;
+font-size: 64px;
+line-height: 96px;
+letter-spacing: -0.04em;
+
+color: #FFFFFF;
+
+}
+
+
+.login {
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 1290px;
+top: 45px;
+
+font-family: 'Roboto',sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px; 
+
+color: #FFFFFF;
+
+}
+
+.get-started {
+
+     
+
+
+border: none; 
+    outline: none;
+font-family: 'Inter',sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 14.5px;
+line-height: 18px;
+
+color: rgba(0, 0, 0, 0.83);
+
+
+
+position: absolute;
+width: 133px;
+height: 38px;
+left: 1360px;
+top: 30px;
+
+background: rgba(255, 255, 255, 0.74);
+border-radius: 20px;
+
+
+}
+
+.flight {
+
+position: absolute;
+width: 625px;
+height: 58.81px;
+left: 460px;
+top: 18px;
+
+background: rgba(241, 245, 246, 0.65);
+border-radius: 100px;
+}
+
+
+.location{
+
+
+    position: absolute;
+    height: 17px;
+    left: 145px;
+    top: 465px;
+    width: 20px;
+    height: 25px;
+  
+
+}
+
+.location-des{
+
+position: absolute;
+width: 110px;
+height: 18px;
+left: 175px;
+top: 471px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+
+}
+
+
+
+.dates {
+    position: absolute;
+    width: 1100px; 
+    height: 80px; 
+    
+    top: 590px;
+    left: 230px;
+    background: rgba(241, 245, 246, 0.5);
+    border-radius: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+        font-style: normal;
+        
+        font-size: 14.5px;
+        text-align: center;
+}
+
+.dates span {
+    margin: 0 15px; 
+    padding: 15px 20px; 
+    padding-left: 15px; 
+    background-color: transparent; 
+    color: rgba(36, 36, 36, 0.731);
+    cursor: pointer;
+    border-radius: 20px; 
+    transition: background-color 0.3s, color 0.3s; /* Add smooth transition */
+}
+
+.dates span:hover {
+    background-color: #f0f0f095; /* Change background color */
+    color: #333; /* Change text color */
+}
+
+.dates span.selected {
+    background-color: #f0f0f095; /* Change background color when selected */
+    color: #333; /* Change text color when selected */
+}
+
+
+.flight-det1  {
+
+    
+    font-family: 'Poppins', sans-serif;
+    color: #242424;
+    font-size: 13px;
+    
+    word-spacing: 40px;
+  
+
+    position: absolute; 
+    left:490px;
+    top:42px;
+}
+
+.arrow-icon img {
+    width: 22px; /* Adjust the width to make the image smaller */
+    height: 20px; /* Maintain aspect ratio */
+    position: absolute;
+    left: 525.5px;
+    top: 37px;
+}
+
+.line {
+
+    border-left: 1.2px solid   rgba(88, 88, 88, 0.348);; /* Adjust color and thickness as needed */
+    height: 35px; 
+
+    position: absolute; 
+    left:595px;
+    top:32px;
+
+}
+
+.flight-des2{
+
+    font-family: 'Poppins', sans-serif;
+    color: #242424;
+    font-size: 13px;
+    
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+ 
+    position: absolute; 
+    left:640px;
+    top:42px;
+
+}
+
+
+.cal-icon img {
+    width: 25px; 
+    height: 24px; 
+    position: absolute;
+    left: 605px;
+    top: 38px;
+}
+
+
+.line1 {
+
+    border-left: 1.2px solid   rgba(88, 88, 88, 0.348);; /* Adjust color and thickness as needed */
+    height: 35px; 
+
+    position: absolute; 
+    left:808px;
+    top:32px;
+
+}
+
+.line2 {
+
+    border-left: 1.2px solid   rgba(88, 88, 88, 0.348);; /* Adjust color and thickness as needed */
+    height: 35px; 
+
+    position: absolute; 
+    left:940px;
+    top:32px;
+
+}
+
+.people-icon img {
+    width: 25px; 
+    height: 24px; 
+    position: absolute;
+    left: 818px;
+    top: 38px;
+}
+
+
+
+.flight-des3{
+
+    font-family: 'Poppins', sans-serif;
+    color: #242424;
+    font-size: 13px;
+    
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+ 
+    position: absolute; 
+    left:850px;
+    top:42px;
+
+}
+
+
+
+.flight-des4{
+
+    font-family: 'Poppins', sans-serif;
+    color: #242424;
+    font-size: 13px;
+    
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+ 
+    position: absolute; 
+    left:975px;
+    top:42px;
+
+}
+
+
+.mag-icon img {
+    width: 28px; 
+    height: 25px; 
+    position: absolute;
+    left: 945px;
+    top: 38px;
+}
+ 
+
+.results-des1{
+
+
+position: absolute;
+width: 200px;
+height: 21px;
+left: 50px;
+top: 800px;
+
+font-family: 'Poppins',sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 22px;
+ 
+
+color: #4A525D;
+}
+
+
+
+.results-des2 {
+
+
+
+position: absolute;
+width: 427px;
+height: 20px;
+left: 50px;
+top: 830px;
+
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 550;
+font-size: 15px;
+line-height: 20px;
+
+display: flex;
+align-items: center;
+
+color: #4a525df8;
+}
+
+
+
+
+.see-dates{
+position: absolute;
+width: 140.02px;
+height: 45.38px;
+right: 203.98px;
+top: 800px;
+border: none;
+background: rgba(241, 245, 246, 0.8);
+border-radius: 90.7591px;
+font-family: "Poppies", sans-serif;
+font-weight: 600;
+font-size: 12px;
+color:#1F212B;
+transition: background-color 0.3s;
+}
+
+.see-dates:hover {
+    background-color: rgb(234, 235, 235); /* Change background color on hover */
+}
+
+
+.sort{
+
+    position: absolute;
+    width: 140.02px;
+    height: 45.38px;
+    right: 203.98px;
+    top: 800px;
+    left:1325px;
+    border: none;
+    background: rgba(241, 245, 246, 0.8);
+    border-radius: 90.7591px;
+    font-family: "Poppies", sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    color:#1F212B;
+    transition: background-color 0.3s;
+}
+
+
+.sort:hover {
+    background-color: rgb(234, 235, 235);  
+}
+
+
+.tickets{
+
+    position: absolute;
+    top: 0px;
+    left:0px;
+    
+    
+    
+    }
+
+.ticket1 {
+
+position: absolute;
+width: 1229px;
+height: 319px;
+left: 150px;
+top: 935px;
+
+background: #FFFFFF;
+border-radius: 23px;
+box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);  
+
+}
+
+
+
+.ticket1-des {
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    position: absolute;
+    width: 121.32px;
+    height: 40.52px;
+    left: 170px;
+    top: 960px;
+    background: #D3FDF0;
+    border: 1.68834px solid #D3FDF0;
+    border-radius: 10px;
+    line-height: 38px; 
+    color: #074A34;
+    font-weight: 600;
+}
+
+
+.airline-logo {
+    width: 97px;
+    height: auto;
+    position: absolute;
+
+    top:1028px;
+    left:200px;
+
+}
+
+
+
+.airline-logo1 {
+    width: 85px;
+    height: auto;
+    position: absolute;
+
+    top:1140px;
+    left:205px;
+
+}
+
+
+
+.pline {
+    
+    width: 160px;  
+    height: 1px;  
+    background-color: #DBDEE8;  
+    position: absolute;
+    left: 450px;  
+    top: 1065px;  
+}
+
+
+.ticket-time {
+
+position: absolute;
+width: 95px;
+height: 33px;
+left: 353px;
+top: 1041px;
+
+font-size: 26.5px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 26.9939px;
+line-height: 34px;
+
+display: flex;
+align-items: center;
+
+color: #1F212B;
+}
+
+
+ .ticket-det {
+
+    position: absolute;
+    left: 358px;
+    top: 1077px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 13.1595px;
+line-height: 20px;
+
+display: flex;
+align-items: center;
+
+color: #6D7682;
+
+ }
+
+
+  .ticket-dur {
+
+    position: absolute;
+    left: 601px;
+    top: 1077px;
+width: 200px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 13.9468px;
+line-height: 20px;
+ 
+
+color: #6D7682;
+
+  }
+ 
+  .pline1 {
+    
+    width: 160px;  
+    height: 1px;  
+    background-color: #DBDEE8;  
+    position: absolute;
+    left: 705px;  
+    top: 1065px;  
+}
+
+.ticket-time1 {
+    position: absolute;
+    width: 95px;
+    height: 33px;
+    left: 880px;
+    top: 1041px;
+    font-size: 26.9939px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    color: #1F212B;
+}
+
+.superscript {
+    position: absolute;
+    font-size: 14px; /* Adjust the size of the superscript as needed */
+    left: 80px;
+    top:-10px;
+    color: #1F212B;
+}
+
+    .ticket-det1 {
+
+        position: absolute;
+        left: 919px;
+        top: 1077px;
+    
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13.1595px;
+    line-height: 20px;
+    
+    display: flex;
+    align-items: center;
+    
+    color: #6D7682;
+    
+     }
+
+
+     .vertical-line {
+        position: absolute;
+        width: 1.85px; /* Adjust the width of the line as needed */
+        height: 319px; /* Adjust the height of the line as needed */
+        background-color: #DBDEE8;  
+        left: 1115px; /* Adjust the position of the line horizontally */
+        top: 935px;  
+       
+    }
+
+
+
+
+
+
+    .pline2 {
+    
+        width: 160px;  
+        height: 1px;  
+        background-color: #DBDEE8;  
+        position: absolute;
+        left: 450px;  
+        top: 1165px;  
+    }
+    
+    
+    .ticket-time2 {
+    
+    position: absolute;
+    width: 95px;
+    height: 33px;
+    left: 353px;
+    top: 1141px;
+    
+    font-size: 26.5px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26.9939px;
+    line-height: 34px;
+    
+    display: flex;
+    align-items: center;
+    
+    color: #1F212B;
+    }
+    
+    
+     .ticket-det2 {
+    
+        position: absolute;
+        left: 358px;
+        top: 1178px;
+    
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13.1595px;
+    line-height: 20px;
+    
+    display: flex;
+    align-items: center;
+    
+    color: #6D7682;
+    
+     }
+    
+    
+      .ticket-dur1 {
+    
+        position: absolute;
+        left: 601px;
+        top: 1178px;
+    
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13.9468px;
+    line-height: 20px;
+    width: 200px;
+    
+    color: #6D7682;
+    
+      }
+     
+      .pline3 {
+        
+        width: 160px;  
+        height: 1px;  
+        background-color: #DBDEE8;  
+        position: absolute;
+        left: 705px;  
+        top: 1165px;  
+    }
+    
+    .ticket-time3 {
+        position: absolute;
+        width: 95px;
+        height: 33px;
+        left: 880px;
+        top: 1140px;
+        font-size: 26.9939px;
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 34px;
+        display: flex;
+        align-items: center;
+        color: #1F212B;
+    }
+    
+    .superscript1 {
+        position: absolute;
+        font-size: 14px; /* Adjust the size of the superscript as needed */
+        left: 80px;
+        top:-10px;
+        color: #1F212B;
+    }
+    
+        .ticket-det3 {
+    
+            position: absolute;
+            left: 919px;
+            top: 1177px;
+        
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 13.1595px;
+        line-height: 20px;
+        
+        display: flex;
+        align-items: center;
+        
+        color: #6D7682;
+        
+         }
+
+
+         .Heart-icon{
+
+position: absolute;
+top: 951px;
+left: 1040px;
+width: 45px;
+height: auto;
+
+
+         }
+    
+
+.lugage1 {
+    width: 50px; /* Adjust the width as needed */
+    height: 35px; /* Adjust the height as needed */
+    color: #333333;
+    position: absolute;
+   
+    top: 955px;
+    left: 1135px;
+    border-radius: 6.7px;
+    border: 1.9px solid rgba(51, 51, 51, 0.38);
+}
+
+.lugage2 {
+    width: 50px; /* Adjust the width as needed */
+    height: 35px; /* Adjust the height as needed */
+    color: #333333;
+    position: absolute;
+   
+    top: 955px;
+    left: 1195px;
+    border-radius: 6.7px;
+    border: 1.9px solid rgba(51, 51, 51, 0.38);
+}
+
+
+.lugage3 {
+    width: 45px; /* Adjust the width as needed */
+    height: 35px; /* Adjust the height as needed */
+    color: #333333;
+    position: absolute;
+   
+    top: 955px;
+    left: 1255px;
+    border-radius: 6.7px;
+    border: 1.9px solid rgba(51, 51, 51, 0.38);
+}
+
+.lugage1-icon {
+
+width: 21px;
+height: auto;
+position: absolute;
+
+top:960px;
+left:1142px;
+ 
+}
+
+
+
+.lugage2-icon {
+
+    width: 20px;
+    height: auto;
+    position: absolute;
+    
+    top:960px;
+    left:1201px;
+     
+}
+
+
+
+.lugage3-icon {
+
+    width: 30px;
+    height: auto;
+    position: absolute;
+    top:964px;
+    left:1263px;
+     
+}
+
+
+.lugage1-ammount {
+
+    position: absolute;
+    top:963px;
+    left: 1169px;
+
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 19px;
+
+color: rgba(0, 0, 0, 0.6);
+
+}
+
+
+.lugage2-ammount {
+
+    position: absolute;
+    top:963px;
+    left: 1228px;
+
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 19px;
+
+color: rgba(0, 0, 0, 0.6);
+
+}
+
+.ticket-price1 {
+
+position: absolute;
+left: 1135px;
+top: 1110px;
+
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+color: #000000;
+}
+
+
+.ticket-class1{
+    position: absolute;
+    left: 1135px;
+    top: 1151px;
+
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+color: #3c3c3cea;
+}
+
+.select-button1 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19px; 
+    position: absolute;
+    width: 220px;
+    height: 50px;
+    left: 1130px;
+    top: 1185px;
+    background: #F1F3F5;
+    border-radius: 15px;
+    border: none;
+    color: #00000092; /* Change the color of the text */
+    cursor: pointer;
+    transition: background-color 0.3s; 
+}
+
+ 
+.select-button1:hover {
+    background-color: #DDD; /* Change to desired color on hover */
+}
+
+.ticket-com1{
+
+position: absolute;
+ 
+left: 210px;
+top: 1225px;
+width: 100px;
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+ 
+ 
+
+color: rgba(0, 0, 0, 0.5);
+
+}
+
+ 
+.stops-icon1 {
+    width: 72px;
+    height: auto;
+    position: absolute;
+    left: 617px;
+    top: 1039px;
+
+
+}
+.stops-icon2 {
+    width: 72px;
+    height: auto;
+    position: absolute;
+    left: 617px;
+    top: 1140px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.tickets2{
+
+
+position: absolute;
+top: 370px;
+left:0px;
+
+
+
+}
+.ticket2 {
+
+    position: absolute;
+    width: 1229px;
+    height: 319px;
+    left: 150px;
+    top: 935px;
+    
+    background: #FFFFFF;
+    border-radius: 23px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);  
+    
+    }
+ 
+
+
+
+    .airline-logo2 {
+        width: 107px;
+        height: auto;
+        position: absolute;
+    
+        top:1040px;
+        left:200px;
+    
+    }
+    
+    
+    
+    .airline-logo3 {
+        width: 120px;
+        height: auto;
+        position: absolute;
+    
+        top:1132px;
+        left:198px;
+    
+    }
+
+
+    .Heart-icon2{
+
+        position: absolute;
+        top: 951px;
+        left: 1040px;
+        width: 45px;
+        height: auto;
+    }
+
+    .pline4 {
+    
+        width: 160px;  
+        height: 1px;  
+        background-color: #DBDEE8;  
+        position: absolute;
+        left: 450px;  
+        top: 1065px;  
+    }
+
+    .pline5  {
+    
+        width: 160px;  
+        height: 1px;  
+        background-color: #DBDEE8;  
+        position: absolute;
+        left: 705px;  
+        top: 1065px;  
+    }
+
+    .pline6 {
+    
+        width: 160px;  
+        height: 1px;  
+        background-color: #DBDEE8;  
+        position: absolute;
+        left: 450px;  
+        top: 1165px;  
+    }
+  
+    .pline7 {
+        
+        width: 160px;  
+        height: 1px;  
+        background-color: #DBDEE8;  
+        position: absolute;
+        left: 705px;  
+        top: 1165px;  
+    }
+
+
+    .ticket-time4 {
+
+        position: absolute;
+        width: 95px;
+        height: 33px;
+        left: 353px;
+        top: 1041px;
+        
+        font-size: 26.5px;
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 26.9939px;
+        line-height: 34px;
+        
+        display: flex;
+        align-items: center;
+        
+        color: #1F212B;
+        }
+        
+        
+         .ticket-det4 {
+        
+            position: absolute;
+            left: 358px;
+            top: 1077px;
+        
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 13.1595px;
+        line-height: 20px;
+        
+        display: flex;
+        align-items: center;
+        
+        color: #6D7682;
+        
+         }
+        
+        
+          .ticket-dur2 {
+        
+            position: absolute;
+            left: 601px;
+            top: 1077px;
+        
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 13.9468px;
+       width: 200px;;         
+        
+        color: #6D7682;
+        
+          }
+         
+          
+        
+        .ticket-time5 {
+            position: absolute;
+            width: 95px;
+            height: 33px;
+            left: 880px;
+            top: 1041px;
+            font-size: 26.9939px;
+            font-family: 'Inter', sans-serif;
+            font-style: normal;
+            font-weight: 600;
+            line-height: 34px;
+            display: flex;
+            align-items: center;
+            color: #1F212B;
+        }
+        
+        .superscript {
+            position: absolute;
+            font-size: 14px; /* Adjust the size of the superscript as needed */
+            left: 80px;
+            top:-10px;
+            color: #1F212B;
+        }
+        
+            .ticket-det5 {
+        
+                position: absolute;
+                left: 919px;
+                top: 1077px;
+            
+            font-family: 'Inter', sans-serif;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 13.1595px;
+            line-height: 20px;
+            
+            display: flex;
+            align-items: center;
+            
+            color: #6D7682;
+            
+             }
+        
+        
+             .vertical-line1 {
+                position: absolute;
+                width: 1.85px; /* Adjust the width of the line as needed */
+                height: 319px; /* Adjust the height of the line as needed */
+                background-color: #DBDEE8;  
+                left: 1115px; /* Adjust the position of the line horizontally */
+                top: 935px;  
+               
+            }
+        
+        
+        
+        
+        
+        
+            
+            .ticket-time6 {
+            
+            position: absolute;
+            width: 95px;
+            height: 33px;
+            left: 353px;
+            top: 1141px;
+            
+            font-size: 26.5px;
+            font-family: 'Inter', sans-serif;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 26.9939px;
+            line-height: 34px;
+            
+            display: flex;
+            align-items: center;
+            
+            color: #1F212B;
+            }
+            
+            
+             .ticket-det6 {
+            
+                position: absolute;
+                left: 358px;
+                top: 1178px;
+            
+            font-family: 'Inter', sans-serif;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 13.1595px;
+            line-height: 20px;
+            
+            display: flex;
+            align-items: center;
+            
+            color: #6D7682;
+            
+             }
+            
+            
+              .ticket-dur3 {
+            
+                position: absolute;
+                left: 601px;
+                top: 1178px;
+            
+            font-family: 'Inter', sans-serif;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 13.9468px;
+            line-height: 20px;
+             width: 200px;
+            
+            color: #6D7682;
+            
+              }
+             
+            
+            
+            .ticket-time7{
+                position: absolute;
+                width: 95px;
+                height: 33px;
+                left: 880px;
+                top: 1140px;
+                font-size: 26.9939px;
+                font-family: 'Inter', sans-serif;
+                font-style: normal;
+                font-weight: 600;
+                line-height: 34px;
+                display: flex;
+                align-items: center;
+                color: #1F212B;
+            }
+            
+            .superscript1 {
+                position: absolute;
+                font-size: 14px; /* Adjust the size of the superscript as needed */
+                left: 80px;
+                top:-10px;
+                color: #1F212B;
+            }
+            
+                .ticket-det7 {
+            
+                    position: absolute;
+                    left: 919px;
+                    top: 1177px;
+                
+                font-family: 'Inter', sans-serif;
+                font-style: normal;
+                font-weight: 600;
+                font-size: 13.1595px;
+                line-height: 20px;
+                
+                display: flex;
+                align-items: center;
+                
+                color: #6D7682;
+                
+                 }
+
+
+
+
+                 .lugage4 {
+                    width: 50px; /* Adjust the width as needed */
+                    height: 35px; /* Adjust the height as needed */
+                    color: #333333;
+                    position: absolute;
+                   
+                    top: 955px;
+                    left: 1135px;
+                    border-radius: 6.7px;
+                    border: 1.9px solid rgba(51, 51, 51, 0.38);
+                }
+                
+                .lugage5 {
+                    width: 50px; /* Adjust the width as needed */
+                    height: 35px; /* Adjust the height as needed */
+                    color: #333333;
+                    position: absolute;
+                   
+                    top: 955px;
+                    left: 1195px;
+                    border-radius: 6.7px;
+                    border: 1.9px solid rgba(51, 51, 51, 0.38);
+                }
+                
+                
+                .lugage6 {
+                    width: 45px; /* Adjust the width as needed */
+                    height: 35px; /* Adjust the height as needed */
+                    color: #333333;
+                    position: absolute;
+                   
+                    top: 955px;
+                    left: 1255px;
+                    border-radius: 6.7px;
+                    border: 1.9px solid rgba(51, 51, 51, 0.38);
+                }
+                
+                .lugage4-icon {
+                
+                width: 21px;
+                height: auto;
+                position: absolute;
+                
+                top:960px;
+                left:1142px;
+                 
+                }
+                
+                
+                
+                .lugage5-icon {
+                
+                    width: 20px;
+                    height: auto;
+                    position: absolute;
+                    
+                    top:960px;
+                    left:1201px;
+                     
+                }
+                
+                
+                
+                .lugage6-icon {
+                
+                    width: 30px;
+                    height: auto;
+                    position: absolute;
+                    top:964px;
+                    left:1263px;
+                     
+                }
+                
+                
+                .lugage3-ammount {
+                
+                    position: absolute;
+                    top:963px;
+                    left: 1169px;
+                
+                font-family: 'Roboto', sans-serif;
+                font-style: normal;
+                font-weight: 700;
+                font-size: 19px;
+                
+                color: rgba(0, 0, 0, 0.6);
+                
+                }
+                
+                
+                .lugage4-ammount {
+                
+                    position: absolute;
+                    top:963px;
+                    left: 1228px;
+                
+                font-family: 'Roboto', sans-serif;
+                font-style: normal;
+                font-weight: 700;
+                font-size: 19px;
+                
+                color: rgba(0, 0, 0, 0.6);
+                
+                }
+                
+                .ticket-price2 {
+                
+                position: absolute;
+                left: 1135px;
+                top: 1110px;
+                
+                font-family: 'Roboto', sans-serif;
+                font-style: normal;
+                font-weight: 700;
+                font-size: 36px;
+                color: #000000;
+                }
+                
+                
+                .ticket-class2{
+                    position: absolute;
+                    left: 1135px;
+                    top: 1151px;
+                
+                font-family: 'Roboto', sans-serif;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 18px;
+                line-height: 30px;
+                color: #3c3c3cea;
+                }
+                
+                .select-button2 {
+                    font-family: 'Roboto', sans-serif;
+                    font-style: normal;
+                    font-weight: 600;
+                    font-size: 19px; 
+                    position: absolute;
+                    width: 220px;
+                    height: 50px;
+                    left: 1130px;
+                    top: 1185px;
+                    background: #F1F3F5;
+                    border-radius: 15px;
+                    border: none;
+                    color: #00000092; /* Change the color of the text */
+                    cursor: pointer;
+                    transition: background-color 0.3s; 
+                }
+                
+                 
+                .select-button2:hover {
+                    background-color: #DDD; /* Change to desired color on hover */
+                }
+                
+                .ticket-com2{
+                
+                position: absolute;
+                 
+                left: 205px;
+                top: 1225px;
+                width: 200px;
+                font-family: 'Roboto', sans-serif;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 14.5px;
+                color: rgba(0, 0, 0, 0.5);
+                
+                }
+
+
+
+                .stops-icon3 {
+                    width: 78px;
+                    height: auto;
+                    position: absolute;
+                    left: 617px;
+                    top: 1039px;
+                
+                
+                }
+                .stops-icon4 {
+                    width: 78px;
+                    height: auto;
+                    position: absolute;
+                    left: 617px;
+                    top: 1140px;
+                
+                
+                }
+
+
+        
+.tickets3{
+
+
+    position: absolute;
+    top: 740px;
+    left:0px;
+
+    }
+    .ticket3 {
+    
+        position: absolute;
+        width: 1229px;
+        height: 319px;
+        left: 150px;
+        top: 935px;
+        
+        background: #FFFFFF;
+        border-radius: 23px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);  
+        
+        }
+     
+    
+    
+    
+        .airline-logo4 {
+            width: 118px;
+            height: auto;
+            position: absolute;
+        
+            top:1024px;
+            left:200px;
+        
+        }
+        
+        
+        
+        .airline-logo5 {
+            width: 120px;
+            height: auto;
+            position: absolute;
+        
+            top:1132px;
+            left:198px;
+        
+        }
+    
+    
+        .Heart-icon3{
+    
+            position: absolute;
+            top: 951px;
+            left: 1040px;
+            width: 45px;
+            height: auto;
+        }
+    
+        .pline8 {
+        
+            width: 415px;  
+            height: 1px;  
+            background-color: #DBDEE8;  
+            position: absolute;
+            left: 450px;  
+            top: 1065px;  
+        }
+    
+       
+    
+        .pline9 {
+        
+            width: 415px;  
+            height: 1px;  
+            background-color: #DBDEE8;  
+            position: absolute;
+            left: 450px;  
+            top: 1165px;  
+        }
+       
+    
+    
+        .ticket-time8 {
+    
+            position: absolute;
+            width: 95px;
+            height: 33px;
+            left: 353px;
+            top: 1041px;
+            
+            font-size: 26.5px;
+            font-family: 'Inter', sans-serif;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 26.9939px;
+            line-height: 34px;
+            
+            display: flex;
+            align-items: center;
+            
+            color: #1F212B;
+            }
+            
+            
+             .ticket-det8 {
+            
+                position: absolute;
+                left: 358px;
+                top: 1077px;
+            
+            font-family: 'Inter', sans-serif;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 13.1595px;
+            line-height: 20px;
+            
+            display: flex;
+            align-items: center;
+            
+            color: #6D7682;
+            
+             }
+            
+            
+              .ticket-dur4 {
+            
+                position: absolute;
+                left: 601px;
+                top: 1077px;
+            
+            font-family: 'Inter', sans-serif;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 13.9468px;
+           width: 200px;;         
+            
+            color: #6D7682;
+            
+              }
+             
+              
+            
+            .ticket-time9 {
+                position: absolute;
+                width: 95px;
+                height: 33px;
+                left: 880px;
+                top: 1041px;
+                font-size: 26.9939px;
+                font-family: 'Inter', sans-serif;
+                font-style: normal;
+                font-weight: 600;
+                line-height: 34px;
+                display: flex;
+                align-items: center;
+                color: #1F212B;
+            }
+            
+         
+            
+                .ticket-det9 {
+            
+                    position: absolute;
+                    left: 919px;
+                    top: 1077px;
+                
+                font-family: 'Inter', sans-serif;
+                font-style: normal;
+                font-weight: 600;
+                font-size: 13.1595px;
+                line-height: 20px;
+                
+                display: flex;
+                align-items: center;
+                
+                color: #6D7682;
+                
+                 }
+            
+            
+                 .vertical-line1 {
+                    position: absolute;
+                    width: 1.85px; /* Adjust the width of the line as needed */
+                    height: 319px; /* Adjust the height of the line as needed */
+                    background-color: #DBDEE8;  
+                    left: 1115px; /* Adjust the position of the line horizontally */
+                    top: 935px;  
+                   
+                }
+            
+            
+            
+            
+            
+            
+                
+                .ticket-time10 {
+                
+                position: absolute;
+                width: 95px;
+                height: 33px;
+                left: 353px;
+                top: 1141px;
+                
+                font-size: 26.5px;
+                font-family: 'Inter', sans-serif;
+                font-style: normal;
+                font-weight: 600;
+                font-size: 26.9939px;
+                line-height: 34px;
+                
+                display: flex;
+                align-items: center;
+                
+                color: #1F212B;
+                }
+                
+                
+                 .ticket-det10 {
+                
+                    position: absolute;
+                    left: 358px;
+                    top: 1178px;
+                
+                font-family: 'Inter', sans-serif;
+                font-style: normal;
+                font-weight: 600;
+                font-size: 13.1595px;
+                line-height: 20px;
+                
+                display: flex;
+                align-items: center;
+                
+                color: #6D7682;
+                
+                 }
+                
+                
+                  .ticket-dur5 {
+                
+                    position: absolute;
+                    left: 601px;
+                    top: 1178px;
+                
+                font-family: 'Inter', sans-serif;
+                font-style: normal;
+                font-weight: 500;
+                font-size: 13.9468px;
+                line-height: 20px;
+                 width: 200px;
+                
+                color: #6D7682;
+                
+                  }
+                 
+                
+                
+                .ticket-time11{
+                    position: absolute;
+                    width: 95px;
+                    height: 33px;
+                    left: 880px;
+                    top: 1140px;
+                    font-size: 26.9939px;
+                    font-family: 'Inter', sans-serif;
+                    font-style: normal;
+                    font-weight: 600;
+                    line-height: 34px;
+                    display: flex;
+                    align-items: center;
+                    color: #1F212B;
+                }
+                
+                .superscript1 {
+                    position: absolute;
+                    font-size: 14px; /* Adjust the size of the superscript as needed */
+                    left: 80px;
+                    top:-10px;
+                    color: #1F212B;
+                }
+                
+                    .ticket-det11 {
+                
+                        position: absolute;
+                        left: 919px;
+                        top: 1177px;
+                    
+                    font-family: 'Inter', sans-serif;
+                    font-style: normal;
+                    font-weight: 600;
+                    font-size: 13.1595px;
+                    line-height: 20px;
+                    
+                    display: flex;
+                    align-items: center;
+                    
+                    color: #6D7682;
+                    
+                     }
+    
+    
+    
+    
+                     .lugage7 {
+                        width: 50px; /* Adjust the width as needed */
+                        height: 35px; /* Adjust the height as needed */
+                        color: #333333;
+                        position: absolute;
+                       
+                        top: 955px;
+                        left: 1135px;
+                        border-radius: 6.7px;
+                        border: 1.9px solid rgba(51, 51, 51, 0.38);
+                    }
+                    
+                    .lugage8 {
+                        width: 50px; /* Adjust the width as needed */
+                        height: 35px; /* Adjust the height as needed */
+                        color: #333333;
+                        position: absolute;
+                       
+                        top: 955px;
+                        left: 1195px;
+                        border-radius: 6.7px;
+                        border: 1.9px solid rgba(51, 51, 51, 0.38);
+                    }
+                    
+                    
+                    .lugage9 {
+                        width: 45px; /* Adjust the width as needed */
+                        height: 35px; /* Adjust the height as needed */
+                        color: #333333;
+                        position: absolute;
+                       
+                        top: 955px;
+                        left: 1255px;
+                        border-radius: 6.7px;
+                        border: 1.9px solid rgba(51, 51, 51, 0.38);
+                    }
+                    
+                    .lugage7-icon {
+                    
+                    width: 21px;
+                    height: auto;
+                    position: absolute;
+                    
+                    top:960px;
+                    left:1142px;
+                     
+                    }
+                    
+                    
+                    
+                    .lugage8-icon {
+                    
+                        width: 20px;
+                        height: auto;
+                        position: absolute;
+                        
+                        top:960px;
+                        left:1201px;
+                         
+                    }
+                    
+                    
+                    
+                    .lugage9-icon {
+                    
+                        width: 30px;
+                        height: auto;
+                        position: absolute;
+                        top:964px;
+                        left:1263px;
+                         
+                    }
+                    
+                    
+                    .lugage5-ammount {
+                    
+                        position: absolute;
+                        top:963px;
+                        left: 1169px;
+                    
+                    font-family: 'Roboto', sans-serif;
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 19px;
+                    
+                    color: rgba(0, 0, 0, 0.6);
+                    
+                    }
+                    
+                    
+                    .lugage6-ammount {
+                    
+                        position: absolute;
+                        top:963px;
+                        left: 1228px;
+                    
+                    font-family: 'Roboto', sans-serif;
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 19px;
+                    
+                    color: rgba(0, 0, 0, 0.6);
+                    
+                    }
+                    
+                    .ticket-price3 {
+                    
+                    position: absolute;
+                    left: 1135px;
+                    top: 1110px;
+                    
+                    font-family: 'Roboto', sans-serif;
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 36px;
+                    color: #000000;
+                    }
+                    
+                    
+                    .ticket-class3 {
+                        position: absolute;
+                        left: 1135px;
+                        top: 1151px;
+                    
+                    font-family: 'Roboto', sans-serif;
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 18px;
+                    line-height: 30px;
+                    color: #3c3c3cea;
+                    }
+                    
+                    .select-button3 {
+                        font-family: 'Roboto', sans-serif;
+                        font-style: normal;
+                        font-weight: 600;
+                        font-size: 19px; 
+                        position: absolute;
+                        width: 220px;
+                        height: 50px;
+                        left: 1130px;
+                        top: 1185px;
+                        background: #F1F3F5;
+                        border-radius: 15px;
+                        border: none;
+                        color: #00000092; /* Change the color of the text */
+                        cursor: pointer;
+                        transition: background-color 0.3s; 
+                    }
+                    
+                     
+                    .select-button3:hover {
+                        background-color: #DDD; /* Change to desired color on hover */
+                    }
+                    
+                    .ticket-com3{
+                    
+                    position: absolute;
+                     
+                    left: 205px;
+                    top: 1225px;
+                    width: 200px;
+                    font-family: 'Roboto', sans-serif;
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 14.5px;
+                    color: rgba(0, 0, 0, 0.5);
+                    
+                    }
+
+
+
+            .ticket-ad{
+
+
+                position: absolute;
+                top: 750px;
+                left:0px;
+                
+                
+                
+                }
+                .ticket-ads {
+                
+                    position: absolute;
+                    width: 1229px;
+                    height: 319px;
+                    left: 150px;
+                    top: 1295px;
+                    
+                    background: #FFFFFF;
+                    border-radius: 23px;
+                    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);  
+                    
+                    }
+
+                    
+        .airline-logo6 {
+            width: 400px;
+            height: auto;
+            position: absolute;
+        
+            top:1310px;
+            left:130px;
+        
+        }
+                         
+
+        
+
+
+ 
+.Booking-ad{
+position: absolute;
+width: 320px;
+height: 38.73px;
+left: 555px;
+top: 1330px;
+
+font-family: 'Roboto' , sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 39px;
+ 
+color: #192024;
+
+}
+
+
+.Booking-ad1 {
+
+
+position: absolute;
+width: 500px;
+height: 64.55px;
+left: 555px;
+top: 1410px;
+
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+ 
+
+color: #5A6872;
+
+}
+
+.Booking-ad2 {
+
+position: absolute;
+width: 44.12px;
+left: 555px;
+top: 1475px;
+
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+
+color: #0F0F0F;
+}
+
+
+
+.Booking-ad3 { 
+
+position: absolute;
+width: 44.12px;
+left: 600px;
+top: 1470px;
+
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 17.5px;
+line-height: 29px;
+color: #0F0F0F;
+
+}
+
+
+.Booking-ad4 {
+
+position: absolute;
+width: 80px;
+left: 555px;
+top: 1520px;
+
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18.7585px;
+color: #192024;
+
+}
+
+ .Ad {
+
+    position: absolute;
+    width: 80px;
+    left: 645px;
+    top: 1518px;
+
+
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 29px;
+color: #192024;
+
+ }
+
+
+ .ad-icon {
+
+
+    position: absolute;
+    width: 22px;
+    height: auto;
+    left: 675px;
+    top: 1517px;
+
+ }
+
+
+ .vertical-line4 {
+    position: absolute;
+    width: 1.85px;  
+    height: 319px;  
+    background-color: #DBDEE8;  
+    left: 1115px;  
+    top: 1295px;  
+   
+}
+
+
+ .Booking-price {
+
+position: absolute;
+left: 1212px; 
+top: 1415px;  
+ 
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+color: #192024;
+
+ }
+
+
+
+ .Booking-ad5 {
+
+position: absolute;
+width: 80px;
+left: 1210px;
+top: 1460px;
+
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 17.5px;
+ 
+
+color: #192024;
+
+    }
+
+
+    .select-button4 {
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 19px; 
+        position: absolute;
+        width: 220px;
+        height: 50px;
+        left: 1130px;
+        top: 1495px;
+        background: #F1F3F5;
+        border-radius: 15px;
+        border: none;
+        color: #00000092; /* Change the color of the text */
+        cursor: pointer;
+        transition: background-color 0.3s; 
+    }
+    
+     
+    .select-button4:hover {
+        background-color: #DDD; /* Change to desired color on hover */
+    }
+
+
+
+
+
+
+
+    .tickets4{
+
+
+        position: absolute;
+        top: 1483px;
+        left:0px;
+    
+        }
+        .ticket3 {
+        
+            position: absolute;
+            width: 1229px;
+            height: 319px;
+            left: 150px;
+            top: 935px;
+            
+            background: #FFFFFF;
+            border-radius: 23px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);  
+            
+            }
+         
+        
+        
+        
+            .airline-logo4 {
+                width: 118px;
+                height: auto;
+                position: absolute;
+            
+                top:1024px;
+                left:200px;
+            
+            }
+            
+            
+            
+            .airline-logo8 {
+                width: 118px;
+                height: auto;
+                position: absolute;
+            
+                top:1124px;
+                left:198px;
+            
+            }
+        
+        
+            .Heart-icon3{
+        
+                position: absolute;
+                top: 951px;
+                left: 1040px;
+                width: 45px;
+                height: auto;
+            }
+        
+            .pline8 {
+            
+                width: 415px;  
+                height: 1px;  
+                background-color: #DBDEE8;  
+                position: absolute;
+                left: 450px;  
+                top: 1065px;  
+            }
+        
+           
+        
+            .pline9 {
+            
+                width: 415px;  
+                height: 1px;  
+                background-color: #DBDEE8;  
+                position: absolute;
+                left: 450px;  
+                top: 1165px;  
+            }
+           
+        
+        
+            .ticket-time8 {
+        
+                position: absolute;
+                width: 95px;
+                height: 33px;
+                left: 353px;
+                top: 1041px;
+                
+                font-size: 26.5px;
+                font-family: 'Inter', sans-serif;
+                font-style: normal;
+                font-weight: 600;
+                font-size: 26.9939px;
+                line-height: 34px;
+                
+                display: flex;
+                align-items: center;
+                
+                color: #1F212B;
+                }
+                
+                
+                 .ticket-det8 {
+                
+                    position: absolute;
+                    left: 358px;
+                    top: 1077px;
+                
+                font-family: 'Inter', sans-serif;
+                font-style: normal;
+                font-weight: 600;
+                font-size: 13.1595px;
+                line-height: 20px;
+                
+                display: flex;
+                align-items: center;
+                
+                color: #6D7682;
+                
+                 }
+                
+                
+                  .ticket-dur4 {
+                
+                    position: absolute;
+                    left: 601px;
+                    top: 1077px;
+                
+                font-family: 'Inter', sans-serif;
+                font-style: normal;
+                font-weight: 500;
+                font-size: 13.9468px;
+               width: 200px;;         
+                
+                color: #6D7682;
+                
+                  }
+                 
+                  
+                
+                .ticket-time9 {
+                    position: absolute;
+                    width: 95px;
+                    height: 33px;
+                    left: 880px;
+                    top: 1041px;
+                    font-size: 26.9939px;
+                    font-family: 'Inter', sans-serif;
+                    font-style: normal;
+                    font-weight: 600;
+                    line-height: 34px;
+                    display: flex;
+                    align-items: center;
+                    color: #1F212B;
+                }
+                
+             
+                
+                    .ticket-det9 {
+                
+                        position: absolute;
+                        left: 919px;
+                        top: 1077px;
+                    
+                    font-family: 'Inter', sans-serif;
+                    font-style: normal;
+                    font-weight: 600;
+                    font-size: 13.1595px;
+                    line-height: 20px;
+                    
+                    display: flex;
+                    align-items: center;
+                    
+                    color: #6D7682;
+                    
+                     }
+                
+                
+                     .vertical-line1 {
+                        position: absolute;
+                        width: 1.85px; /* Adjust the width of the line as needed */
+                        height: 319px; /* Adjust the height of the line as needed */
+                        background-color: #DBDEE8;  
+                        left: 1115px; /* Adjust the position of the line horizontally */
+                        top: 935px;  
+                       
+                    }
+                
+                
+                
+                
+                
+                
+                    
+                    .ticket-time10 {
+                    
+                    position: absolute;
+                    width: 95px;
+                    height: 33px;
+                    left: 353px;
+                    top: 1141px;
+                    
+                    font-size: 26.5px;
+                    font-family: 'Inter', sans-serif;
+                    font-style: normal;
+                    font-weight: 600;
+                    font-size: 26.9939px;
+                    line-height: 34px;
+                    
+                    display: flex;
+                    align-items: center;
+                    
+                    color: #1F212B;
+                    }
+                    
+                    
+                     .ticket-det10 {
+                    
+                        position: absolute;
+                        left: 358px;
+                        top: 1178px;
+                    
+                    font-family: 'Inter', sans-serif;
+                    font-style: normal;
+                    font-weight: 600;
+                    font-size: 13.1595px;
+                    line-height: 20px;
+                    
+                    display: flex;
+                    align-items: center;
+                    
+                    color: #6D7682;
+                    
+                     }
+                    
+                    
+                      .ticket-dur5 {
+                    
+                        position: absolute;
+                        left: 601px;
+                        top: 1178px;
+                    
+                    font-family: 'Inter', sans-serif;
+                    font-style: normal;
+                    font-weight: 500;
+                    font-size: 13.9468px;
+                    line-height: 20px;
+                     width: 200px;
+                    
+                    color: #6D7682;
+                    
+                      }
+                     
+                    
+                    
+                    .ticket-time11{
+                        position: absolute;
+                        width: 95px;
+                        height: 33px;
+                        left: 880px;
+                        top: 1140px;
+                        font-size: 26.9939px;
+                        font-family: 'Inter', sans-serif;
+                        font-style: normal;
+                        font-weight: 600;
+                        line-height: 34px;
+                        display: flex;
+                        align-items: center;
+                        color: #1F212B;
+                    }
+                    
+                    .superscript1 {
+                        position: absolute;
+                        font-size: 14px; /* Adjust the size of the superscript as needed */
+                        left: 80px;
+                        top:-10px;
+                        color: #1F212B;
+                    }
+                    
+                        .ticket-det11 {
+                    
+                            position: absolute;
+                            left: 919px;
+                            top: 1177px;
+                        
+                        font-family: 'Inter', sans-serif;
+                        font-style: normal;
+                        font-weight: 600;
+                        font-size: 13.1595px;
+                        line-height: 20px;
+                        
+                        display: flex;
+                        align-items: center;
+                        
+                        color: #6D7682;
+                        
+                         }
+        
+        
+        
+        
+                         .lugage7 {
+                            width: 50px; /* Adjust the width as needed */
+                            height: 35px; /* Adjust the height as needed */
+                            color: #333333;
+                            position: absolute;
+                           
+                            top: 955px;
+                            left: 1135px;
+                            border-radius: 6.7px;
+                            border: 1.9px solid rgba(51, 51, 51, 0.38);
+                        }
+                        
+                        .lugage8 {
+                            width: 50px; /* Adjust the width as needed */
+                            height: 35px; /* Adjust the height as needed */
+                            color: #333333;
+                            position: absolute;
+                           
+                            top: 955px;
+                            left: 1195px;
+                            border-radius: 6.7px;
+                            border: 1.9px solid rgba(51, 51, 51, 0.38);
+                        }
+                        
+                        
+                        .lugage9 {
+                            width: 45px; /* Adjust the width as needed */
+                            height: 35px; /* Adjust the height as needed */
+                            color: #333333;
+                            position: absolute;
+                           
+                            top: 955px;
+                            left: 1255px;
+                            border-radius: 6.7px;
+                            border: 1.9px solid rgba(51, 51, 51, 0.38);
+                        }
+                        
+                        .lugage7-icon {
+                        
+                        width: 21px;
+                        height: auto;
+                        position: absolute;
+                        
+                        top:960px;
+                        left:1142px;
+                         
+                        }
+                        
+                        
+                        
+                        .lugage8-icon {
+                        
+                            width: 20px;
+                            height: auto;
+                            position: absolute;
+                            
+                            top:960px;
+                            left:1201px;
+                             
+                        }
+                        
+                        
+                        
+                        .lugage9-icon {
+                        
+                            width: 30px;
+                            height: auto;
+                            position: absolute;
+                            top:964px;
+                            left:1263px;
+                             
+                        }
+                        
+                        
+                        .lugage5-ammount {
+                        
+                            position: absolute;
+                            top:963px;
+                            left: 1169px;
+                        
+                        font-family: 'Roboto', sans-serif;
+                        font-style: normal;
+                        font-weight: 700;
+                        font-size: 19px;
+                        
+                        color: rgba(0, 0, 0, 0.6);
+                        
+                        }
+                        
+                        
+                        .lugage6-ammount {
+                        
+                            position: absolute;
+                            top:963px;
+                            left: 1228px;
+                        
+                        font-family: 'Roboto', sans-serif;
+                        font-style: normal;
+                        font-weight: 700;
+                        font-size: 19px;
+                        
+                        color: rgba(0, 0, 0, 0.6);
+                        
+                        }
+                        
+                        .ticket-price3 {
+                        
+                        position: absolute;
+                        left: 1135px;
+                        top: 1110px;
+                        
+                        font-family: 'Roboto', sans-serif;
+                        font-style: normal;
+                        font-weight: 700;
+                        font-size: 36px;
+                        color: #000000;
+                        }
+                        
+                        
+                        .ticket-class3 {
+                            position: absolute;
+                            left: 1135px;
+                            top: 1151px;
+                        
+                        font-family: 'Roboto', sans-serif;
+                        font-style: normal;
+                        font-weight: 400;
+                        font-size: 18px;
+                        line-height: 30px;
+                        color: #3c3c3cea;
+                        }
+                        
+                        .select-button3 {
+                            font-family: 'Roboto', sans-serif;
+                            font-style: normal;
+                            font-weight: 600;
+                            font-size: 19px; 
+                            position: absolute;
+                            width: 220px;
+                            height: 50px;
+                            left: 1130px;
+                            top: 1185px;
+                            background: #F1F3F5;
+                            border-radius: 15px;
+                            border: none;
+                            color: #00000092; /* Change the color of the text */
+                            cursor: pointer;
+                            transition: background-color 0.3s; 
+                        }
+                        
+                         
+                        .select-button3:hover {
+                            background-color: #DDD; /* Change to desired color on hover */
+                        }
+                        
+                        .ticket-com3{
+                        
+                        position: absolute;
+                         
+                        left: 205px;
+                        top: 1225px;
+                        width: 200px;
+                        font-family: 'Roboto', sans-serif;
+                        font-style: normal;
+                        font-weight: 400;
+                        font-size: 14.5px;
+                        color: rgba(0, 0, 0, 0.5);
+                        
+                        }
+    
+    
+    
+                .ticket-ad{
+    
+    
+                    position: absolute;
+                    top: 750px;
+                    left:0px;
+                    
+                    
+                    
+                    }
+                    .ticket-ads {
+                    
+                        position: absolute;
+                        width: 1229px;
+                        height: 319px;
+                        left: 150px;
+                        top: 1295px;
+                        
+                        background: #FFFFFF;
+                        border-radius: 23px;
+                        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);  
+                        
+                        }
+    
+                        
+            .airline-logo6 {
+                width: 400px;
+                height: auto;
+                position: absolute;
+            
+                top:1310px;
+                left:130px;
+            
+            }
+
+
+            .tickets5{
+
+
+                position: absolute;
+                top: 1860px;
+                left:0px;
+            
+                }
+                .ticket3 {
+                
+                    position: absolute;
+                    width: 1229px;
+                    height: 319px;
+                    left: 150px;
+                    top: 935px;
+                    
+                    background: #FFFFFF;
+                    border-radius: 23px;
+                    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);  
+                    
+                    }
+                 
+                
+                
+                
+                    .airline-logo10 {
+                        width: 155px;
+                        height: auto;
+                        position: absolute;
+                    
+                        top:1015px;
+                        left:179px;
+                    
+                    }
+                    
+                    
+                    
+                    .airline-logo11 {
+                        width: 155px;
+                        height: auto;
+                        position: absolute;
+                    
+                        top:1111px;
+                        left:179px;
+                    
+                    }
+                
+                
+                    .Heart-icon3{
+                
+                        position: absolute;
+                        top: 951px;
+                        left: 1040px;
+                        width: 45px;
+                        height: auto;
+                    }
+                
+                    .pline8 {
+                    
+                        width: 415px;  
+                        height: 1px;  
+                        background-color: #DBDEE8;  
+                        position: absolute;
+                        left: 450px;  
+                        top: 1065px;  
+                    }
+                
+                   
+                
+                    .pline9 {
+                    
+                        width: 415px;  
+                        height: 1px;  
+                        background-color: #DBDEE8;  
+                        position: absolute;
+                        left: 450px;  
+                        top: 1165px;  
+                    }
+                   
+                
+                
+                    .ticket-time8 {
+                
+                        position: absolute;
+                        width: 95px;
+                        height: 33px;
+                        left: 353px;
+                        top: 1041px;
+                        
+                        font-size: 26.5px;
+                        font-family: 'Inter', sans-serif;
+                        font-style: normal;
+                        font-weight: 600;
+                        font-size: 26.9939px;
+                        line-height: 34px;
+                        
+                        display: flex;
+                        align-items: center;
+                        
+                        color: #1F212B;
+                        }
+                        
+                        
+                         .ticket-det8 {
+                        
+                            position: absolute;
+                            left: 358px;
+                            top: 1077px;
+                        
+                        font-family: 'Inter', sans-serif;
+                        font-style: normal;
+                        font-weight: 600;
+                        font-size: 13.1595px;
+                        line-height: 20px;
+                        
+                        display: flex;
+                        align-items: center;
+                        
+                        color: #6D7682;
+                        
+                         }
+                        
+                        
+                          .ticket-dur4 {
+                        
+                            position: absolute;
+                            left: 601px;
+                            top: 1077px;
+                        
+                        font-family: 'Inter', sans-serif;
+                        font-style: normal;
+                        font-weight: 500;
+                        font-size: 13.9468px;
+                       width: 200px;;         
+                        
+                        color: #6D7682;
+                        
+                          }
+                         
+                          
+                        
+                        .ticket-time9 {
+                            position: absolute;
+                            width: 95px;
+                            height: 33px;
+                            left: 880px;
+                            top: 1041px;
+                            font-size: 26.9939px;
+                            font-family: 'Inter', sans-serif;
+                            font-style: normal;
+                            font-weight: 600;
+                            line-height: 34px;
+                            display: flex;
+                            align-items: center;
+                            color: #1F212B;
+                        }
+                        
+                     
+                        
+                            .ticket-det9 {
+                        
+                                position: absolute;
+                                left: 919px;
+                                top: 1077px;
+                            
+                            font-family: 'Inter', sans-serif;
+                            font-style: normal;
+                            font-weight: 600;
+                            font-size: 13.1595px;
+                            line-height: 20px;
+                            
+                            display: flex;
+                            align-items: center;
+                            
+                            color: #6D7682;
+                            
+                             }
+                        
+                        
+                             .vertical-line1 {
+                                position: absolute;
+                                width: 1.85px; /* Adjust the width of the line as needed */
+                                height: 319px; /* Adjust the height of the line as needed */
+                                background-color: #DBDEE8;  
+                                left: 1115px; /* Adjust the position of the line horizontally */
+                                top: 935px;  
+                               
+                            }
+                        
+                        
+                        
+                        
+                        
+                        
+                            
+                            .ticket-time10 {
+                            
+                            position: absolute;
+                            width: 95px;
+                            height: 33px;
+                            left: 353px;
+                            top: 1141px;
+                            
+                            font-size: 26.5px;
+                            font-family: 'Inter', sans-serif;
+                            font-style: normal;
+                            font-weight: 600;
+                            font-size: 26.9939px;
+                            line-height: 34px;
+                            
+                            display: flex;
+                            align-items: center;
+                            
+                            color: #1F212B;
+                            }
+                            
+                            
+                             .ticket-det10 {
+                            
+                                position: absolute;
+                                left: 358px;
+                                top: 1178px;
+                            
+                            font-family: 'Inter', sans-serif;
+                            font-style: normal;
+                            font-weight: 600;
+                            font-size: 13.1595px;
+                            line-height: 20px;
+                            
+                            display: flex;
+                            align-items: center;
+                            
+                            color: #6D7682;
+                            
+                             }
+                            
+                            
+                              .ticket-dur5 {
+                            
+                                position: absolute;
+                                left: 601px;
+                                top: 1178px;
+                            
+                            font-family: 'Inter', sans-serif;
+                            font-style: normal;
+                            font-weight: 500;
+                            font-size: 13.9468px;
+                            line-height: 20px;
+                             width: 200px;
+                            
+                            color: #6D7682;
+                            
+                              }
+                             
+                            
+                            
+                            .ticket-time11{
+                                position: absolute;
+                                width: 95px;
+                                height: 33px;
+                                left: 880px;
+                                top: 1140px;
+                                font-size: 26.9939px;
+                                font-family: 'Inter', sans-serif;
+                                font-style: normal;
+                                font-weight: 600;
+                                line-height: 34px;
+                                display: flex;
+                                align-items: center;
+                                color: #1F212B;
+                            }
+                            
+                            .superscript1 {
+                                position: absolute;
+                                font-size: 14px; /* Adjust the size of the superscript as needed */
+                                left: 80px;
+                                top:-10px;
+                                color: #1F212B;
+                            }
+                            
+                                .ticket-det11 {
+                            
+                                    position: absolute;
+                                    left: 919px;
+                                    top: 1177px;
+                                
+                                font-family: 'Inter', sans-serif;
+                                font-style: normal;
+                                font-weight: 600;
+                                font-size: 13.1595px;
+                                line-height: 20px;
+                                
+                                display: flex;
+                                align-items: center;
+                                
+                                color: #6D7682;
+                                
+                                 }
+                
+                
+                
+                
+                                 .lugage7 {
+                                    width: 50px; /* Adjust the width as needed */
+                                    height: 35px; /* Adjust the height as needed */
+                                    color: #333333;
+                                    position: absolute;
+                                   
+                                    top: 955px;
+                                    left: 1135px;
+                                    border-radius: 6.7px;
+                                    border: 1.9px solid rgba(51, 51, 51, 0.38);
+                                }
+                                
+                                .lugage8 {
+                                    width: 50px; /* Adjust the width as needed */
+                                    height: 35px; /* Adjust the height as needed */
+                                    color: #333333;
+                                    position: absolute;
+                                   
+                                    top: 955px;
+                                    left: 1195px;
+                                    border-radius: 6.7px;
+                                    border: 1.9px solid rgba(51, 51, 51, 0.38);
+                                }
+                                
+                                
+                                .lugage9 {
+                                    width: 45px; /* Adjust the width as needed */
+                                    height: 35px; /* Adjust the height as needed */
+                                    color: #333333;
+                                    position: absolute;
+                                   
+                                    top: 955px;
+                                    left: 1255px;
+                                    border-radius: 6.7px;
+                                    border: 1.9px solid rgba(51, 51, 51, 0.38);
+                                }
+                                
+                                .lugage7-icon {
+                                
+                                width: 21px;
+                                height: auto;
+                                position: absolute;
+                                
+                                top:960px;
+                                left:1142px;
+                                 
+                                }
+                                
+                                
+                                
+                                .lugage8-icon {
+                                
+                                    width: 20px;
+                                    height: auto;
+                                    position: absolute;
+                                    
+                                    top:960px;
+                                    left:1201px;
+                                     
+                                }
+                                
+                                
+                                
+                                .lugage9-icon {
+                                
+                                    width: 30px;
+                                    height: auto;
+                                    position: absolute;
+                                    top:964px;
+                                    left:1263px;
+                                     
+                                }
+                                
+                                
+                                .lugage5-ammount {
+                                
+                                    position: absolute;
+                                    top:963px;
+                                    left: 1169px;
+                                
+                                font-family: 'Roboto', sans-serif;
+                                font-style: normal;
+                                font-weight: 700;
+                                font-size: 19px;
+                                
+                                color: rgba(0, 0, 0, 0.6);
+                                
+                                }
+                                
+                                
+                                .lugage6-ammount {
+                                
+                                    position: absolute;
+                                    top:963px;
+                                    left: 1228px;
+                                
+                                font-family: 'Roboto', sans-serif;
+                                font-style: normal;
+                                font-weight: 700;
+                                font-size: 19px;
+                                
+                                color: rgba(0, 0, 0, 0.6);
+                                
+                                }
+                                
+                                .ticket-price3 {
+                                
+                                position: absolute;
+                                left: 1135px;
+                                top: 1110px;
+                                
+                                font-family: 'Roboto', sans-serif;
+                                font-style: normal;
+                                font-weight: 700;
+                                font-size: 36px;
+                                color: #000000;
+                                }
+                                
+                                
+                                .ticket-class3 {
+                                    position: absolute;
+                                    left: 1135px;
+                                    top: 1151px;
+                                
+                                font-family: 'Roboto', sans-serif;
+                                font-style: normal;
+                                font-weight: 400;
+                                font-size: 18px;
+                                line-height: 30px;
+                                color: #3c3c3cea;
+                                }
+                                
+                                .select-button3 {
+                                    font-family: 'Roboto', sans-serif;
+                                    font-style: normal;
+                                    font-weight: 600;
+                                    font-size: 19px; 
+                                    position: absolute;
+                                    width: 220px;
+                                    height: 50px;
+                                    left: 1130px;
+                                    top: 1185px;
+                                    background: #F1F3F5;
+                                    border-radius: 15px;
+                                    border: none;
+                                    color: #00000092; /* Change the color of the text */
+                                    cursor: pointer;
+                                    transition: background-color 0.3s; 
+                                }
+                                
+                                 
+                                .select-button3:hover {
+                                    background-color: #DDD; /* Change to desired color on hover */
+                                }
+                                
+                                .ticket-com4{
+                                
+                                position: absolute;
+                                 
+                                left: 199px;
+                                top: 1225px;
+                                width: 200px;
+                                font-family: 'Roboto', sans-serif;
+                                font-style: normal;
+                                font-weight: 400;
+                                font-size: 14.5px;
+                                color: rgba(0, 0, 0, 0.5);
+                                
+                                }
+
+
+            .tickets6{
+
+
+                position: absolute;
+                top: 2240px;
+                left:0px;
+            
+                }
+                .ticket3 {
+                
+                    position: absolute;
+                    width: 1229px;
+                    height: 319px;
+                    left: 150px;
+                    top: 935px;
+                    
+                    background: #FFFFFF;
+                    border-radius: 23px;
+                    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);  
+                    
+                    }
+                    
+                
+                
+                
+                    .airline-logo4 {
+                        width: 118px;
+                        height: auto;
+                        position: absolute;
+                    
+                        top:1024px;
+                        left:200px;
+                    
+                    }
+                    
+                    
+                    
+                    .airline-logo12 {
+                        width: 100px;
+                        height: auto;
+                        position: absolute;
+                    
+                        top:1124px;
+                        left:198px;
+                    
+                    }
+                
+                
+                    .Heart-icon3{
+                
+                        position: absolute;
+                        top: 951px;
+                        left: 1040px;
+                        width: 45px;
+                        height: auto;
+                    }
+                
+                    .pline8 {
+                    
+                        width: 415px;  
+                        height: 1px;  
+                        background-color: #DBDEE8;  
+                        position: absolute;
+                        left: 450px;  
+                        top: 1065px;  
+                    }
+                
+                    
+                
+                    .pline9 {
+                    
+                        width: 415px;  
+                        height: 1px;  
+                        background-color: #DBDEE8;  
+                        position: absolute;
+                        left: 450px;  
+                        top: 1165px;  
+                    }
+                    
+                
+                
+                    .ticket-time8 {
+                
+                        position: absolute;
+                        width: 95px;
+                        height: 33px;
+                        left: 353px;
+                        top: 1041px;
+                        
+                        font-size: 26.5px;
+                        font-family: 'Inter', sans-serif;
+                        font-style: normal;
+                        font-weight: 600;
+                        font-size: 26.9939px;
+                        line-height: 34px;
+                        
+                        display: flex;
+                        align-items: center;
+                        
+                        color: #1F212B;
+                        }
+                        
+                        
+                            .ticket-det8 {
+                        
+                            position: absolute;
+                            left: 358px;
+                            top: 1077px;
+                        
+                        font-family: 'Inter', sans-serif;
+                        font-style: normal;
+                        font-weight: 600;
+                        font-size: 13.1595px;
+                        line-height: 20px;
+                        
+                        display: flex;
+                        align-items: center;
+                        
+                        color: #6D7682;
+                        
+                            }
+                        
+                        
+                            .ticket-dur4 {
+                        
+                            position: absolute;
+                            left: 601px;
+                            top: 1077px;
+                        
+                        font-family: 'Inter', sans-serif;
+                        font-style: normal;
+                        font-weight: 500;
+                        font-size: 13.9468px;
+                        width: 200px;;         
+                        
+                        color: #6D7682;
+                        
+                            }
+                            
+                            
+                        
+                        .ticket-time9 {
+                            position: absolute;
+                            width: 95px;
+                            height: 33px;
+                            left: 880px;
+                            top: 1041px;
+                            font-size: 26.9939px;
+                            font-family: 'Inter', sans-serif;
+                            font-style: normal;
+                            font-weight: 600;
+                            line-height: 34px;
+                            display: flex;
+                            align-items: center;
+                            color: #1F212B;
+                        }
+                        
+                        
+                        
+                            .ticket-det9 {
+                        
+                                position: absolute;
+                                left: 919px;
+                                top: 1077px;
+                            
+                            font-family: 'Inter', sans-serif;
+                            font-style: normal;
+                            font-weight: 600;
+                            font-size: 13.1595px;
+                            line-height: 20px;
+                            
+                            display: flex;
+                            align-items: center;
+                            
+                            color: #6D7682;
+                            
+                                }
+                        
+                        
+                                .vertical-line1 {
+                                position: absolute;
+                                width: 1.85px; /* Adjust the width of the line as needed */
+                                height: 319px; /* Adjust the height of the line as needed */
+                                background-color: #DBDEE8;  
+                                left: 1115px; /* Adjust the position of the line horizontally */
+                                top: 935px;  
+                                
+                            }
+                        
+                        
+                        
+                        
+                        
+                        
+                            
+                            .ticket-time10 {
+                            
+                            position: absolute;
+                            width: 95px;
+                            height: 33px;
+                            left: 353px;
+                            top: 1141px;
+                            
+                            font-size: 26.5px;
+                            font-family: 'Inter', sans-serif;
+                            font-style: normal;
+                            font-weight: 600;
+                            font-size: 26.9939px;
+                            line-height: 34px;
+                            
+                            display: flex;
+                            align-items: center;
+                            
+                            color: #1F212B;
+                            }
+                            
+                            
+                                .ticket-det10 {
+                            
+                                position: absolute;
+                                left: 358px;
+                                top: 1178px;
+                            
+                            font-family: 'Inter', sans-serif;
+                            font-style: normal;
+                            font-weight: 600;
+                            font-size: 13.1595px;
+                            line-height: 20px;
+                            
+                            display: flex;
+                            align-items: center;
+                            
+                            color: #6D7682;
+                            
+                                }
+                            
+                            
+                                .ticket-dur5 {
+                            
+                                position: absolute;
+                                left: 601px;
+                                top: 1178px;
+                            
+                            font-family: 'Inter', sans-serif;
+                            font-style: normal;
+                            font-weight: 500;
+                            font-size: 13.9468px;
+                            line-height: 20px;
+                                width: 200px;
+                            
+                            color: #6D7682;
+                            
+                                }
+                                
+                            
+                            
+                            .ticket-time11{
+                                position: absolute;
+                                width: 95px;
+                                height: 33px;
+                                left: 880px;
+                                top: 1140px;
+                                font-size: 26.9939px;
+                                font-family: 'Inter', sans-serif;
+                                font-style: normal;
+                                font-weight: 600;
+                                line-height: 34px;
+                                display: flex;
+                                align-items: center;
+                                color: #1F212B;
+                            }
+                            
+                            .superscript1 {
+                                position: absolute;
+                                font-size: 14px; /* Adjust the size of the superscript as needed */
+                                left: 80px;
+                                top:-10px;
+                                color: #1F212B;
+                            }
+                            
+                                .ticket-det11 {
+                            
+                                    position: absolute;
+                                    left: 919px;
+                                    top: 1177px;
+                                
+                                font-family: 'Inter', sans-serif;
+                                font-style: normal;
+                                font-weight: 600;
+                                font-size: 13.1595px;
+                                line-height: 20px;
+                                
+                                display: flex;
+                                align-items: center;
+                                
+                                color: #6D7682;
+                                
+                                    }
+                
+                
+                
+                
+                                    .lugage7 {
+                                    width: 50px; /* Adjust the width as needed */
+                                    height: 35px; /* Adjust the height as needed */
+                                    color: #333333;
+                                    position: absolute;
+                                    
+                                    top: 955px;
+                                    left: 1135px;
+                                    border-radius: 6.7px;
+                                    border: 1.9px solid rgba(51, 51, 51, 0.38);
+                                }
+                                
+                                .lugage8 {
+                                    width: 50px; /* Adjust the width as needed */
+                                    height: 35px; /* Adjust the height as needed */
+                                    color: #333333;
+                                    position: absolute;
+                                    
+                                    top: 955px;
+                                    left: 1195px;
+                                    border-radius: 6.7px;
+                                    border: 1.9px solid rgba(51, 51, 51, 0.38);
+                                }
+                                
+                                
+                                .lugage9 {
+                                    width: 45px; /* Adjust the width as needed */
+                                    height: 35px; /* Adjust the height as needed */
+                                    color: #333333;
+                                    position: absolute;
+                                    
+                                    top: 955px;
+                                    left: 1255px;
+                                    border-radius: 6.7px;
+                                    border: 1.9px solid rgba(51, 51, 51, 0.38);
+                                }
+                                
+                                .lugage7-icon {
+                                
+                                width: 21px;
+                                height: auto;
+                                position: absolute;
+                                
+                                top:960px;
+                                left:1142px;
+                                    
+                                }
+                                
+                                
+                                
+                                .lugage8-icon {
+                                
+                                    width: 20px;
+                                    height: auto;
+                                    position: absolute;
+                                    
+                                    top:960px;
+                                    left:1201px;
+                                        
+                                }
+                                
+                                
+                                
+                                .lugage9-icon {
+                                
+                                    width: 30px;
+                                    height: auto;
+                                    position: absolute;
+                                    top:964px;
+                                    left:1263px;
+                                        
+                                }
+                                
+                                
+                                .lugage5-ammount {
+                                
+                                    position: absolute;
+                                    top:963px;
+                                    left: 1169px;
+                                
+                                font-family: 'Roboto', sans-serif;
+                                font-style: normal;
+                                font-weight: 700;
+                                font-size: 19px;
+                                
+                                color: rgba(0, 0, 0, 0.6);
+                                
+                                }
+                                
+                                
+                                .lugage6-ammount {
+                                
+                                    position: absolute;
+                                    top:963px;
+                                    left: 1228px;
+                                
+                                font-family: 'Roboto', sans-serif;
+                                font-style: normal;
+                                font-weight: 700;
+                                font-size: 19px;
+                                
+                                color: rgba(0, 0, 0, 0.6);
+                                
+                                }
+                                
+                                .ticket-price3 {
+                                
+                                position: absolute;
+                                left: 1135px;
+                                top: 1110px;
+                                
+                                font-family: 'Roboto', sans-serif;
+                                font-style: normal;
+                                font-weight: 700;
+                                font-size: 36px;
+                                color: #000000;
+                                }
+                                
+                                
+                                .ticket-class3 {
+                                    position: absolute;
+                                    left: 1135px;
+                                    top: 1151px;
+                                
+                                font-family: 'Roboto', sans-serif;
+                                font-style: normal;
+                                font-weight: 400;
+                                font-size: 18px;
+                                line-height: 30px;
+                                color: #3c3c3cea;
+                                }
+                                
+                                .select-button3 {
+                                    font-family: 'Roboto', sans-serif;
+                                    font-style: normal;
+                                    font-weight: 600;
+                                    font-size: 19px; 
+                                    position: absolute;
+                                    width: 220px;
+                                    height: 50px;
+                                    left: 1130px;
+                                    top: 1185px;
+                                    background: #F1F3F5;
+                                    border-radius: 15px;
+                                    border: none;
+                                    color: #00000092; /* Change the color of the text */
+                                    cursor: pointer;
+                                    transition: background-color 0.3s; 
+                                }
+                                
+                                    
+                                .select-button3:hover {
+                                    background-color: #DDD; /* Change to desired color on hover */
+                                }
+                                
+                                .ticket-com3{
+                                
+                                position: absolute;
+                                    
+                                left: 205px;
+                                top: 1225px;
+                                width: 200px;
+                                font-family: 'Roboto', sans-serif;
+                                font-style: normal;
+                                font-weight: 400;
+                                font-size: 14.5px;
+                                color: rgba(0, 0, 0, 0.5);
+                                
+                                }    
+                                
+                                
+            .Footer {
+
+
+                position: absolute;
+                top: 650px;
+                left: 0px;   
+                }
+                
+                
+                
+                
+                
+                
+                .Footer-box {
+                
+                
+                position: absolute;
+                width: 1525px;
+                height: 350px;
+                left: 0px;
+                top: 3000px;
+                
+                background: #F8FAFF;
+                border-radius: 20px;
+                
+                
+                }
+                
+                
+                .Footer-name {
+                
+                width: 99px;
+                height: 51px;
+                
+                font-family: 'Filson Pro', sans-serif;
+                font-style: normal;
+                font-weight: 700;
+                font-size: 30px;
+                line-height: 160%;
+                /* or 51px */
+                letter-spacing: 0.06em;
+                
+                color: #4367FF;
+                
+                
+                position: absolute;
+                
+                top: 3050px;
+                left: 45px;
+                /* Inside auto layout */
+                flex: none;
+                order: 0;
+                flex-grow: 0;
+                }
+                
+                
+                .Fly_finder-des{
+                width: 270px;
+                height: 140px;
+                
+                font-family: 'Poppins',sans-serif;
+                font-style: normal;
+                font-size: 14px;
+                line-height: 28px;
+                /* or 200% */
+                
+                color: #52525B;
+                
+                
+                position: absolute;
+                top: 3120px;
+                left: 45px;
+                /* Inside auto layout */
+                flex: none;
+                order: 1;
+                flex-grow: 0;
+                }
+                
+                
+                .Footer-des1 {
+                position: absolute;
+                width: 73px;
+                height: 18px;
+                left: 0px;
+                top: 0px;
+                
+                
+                font-family: 'Poppins', sans-serif;
+                font-style: normal;
+                font-weight: 600;
+                font-size: 13px;
+                line-height: 18px;
+                /* identical to box height, or 138% */
+                letter-spacing: 1px;
+                text-transform: uppercase;
+                
+                color: #4267FF;
+                
+                position: absolute;
+                
+                top: 3050px;
+                left: 450px;
+                
+                
+                }
+                
+                
+                .Footer-des2 {
+                
+                font-family: 'Poppins', sans-serif;
+                
+                position: absolute;
+                width: 50px;
+                height: 154px;
+                left: 451px;
+                top: 3080px;
+                
+                
+                
+                font-style: normal;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 50px;
+                
+                
+                color: #52525B;
+                
+                }
+                
+                
+                .Footer-des3 {
+                
+                position: absolute;
+                width: 73px;
+                height: 18px;
+                left: 0px;
+                top: 0px;
+                
+                font-family: 'Poppins', sans-serif;
+                font-style: normal;
+                font-weight: 600;
+                font-size: 13px;
+                line-height: 18px;
+                
+                letter-spacing: 1px;
+                text-transform: uppercase;
+                
+                color: #4267FF;
+                
+                position: absolute;
+                
+                top: 3050px;
+                left: 750px;
+                }
+                
+                .Footer-des4 {
+                
+                
+                position: absolute;
+                width: 120px;
+                height: 154px;
+                
+                font-family: 'Poppins', sans-serif;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 50px;
+                
+                
+                color: #52525B;
+                
+                top: 3080px;
+                left: 750px;
+                
+                }
+                
+                
+                .Footer-des5 {
+                
+                position: absolute;
+                width: 73px;
+                height: 18px;
+                left: 0px;
+                top: 0px;
+                
+                font-family: 'Poppins', sans-serif;
+                font-style: normal;
+                font-weight: 600;
+                font-size: 13px;
+                line-height: 18px;
+                
+                letter-spacing: 1px;
+                text-transform: uppercase;
+                
+                color: #4267FF;
+                
+                position: absolute;
+                
+                top: 3050px;
+                left: 1065px;
+                }
+                
+                
+                .Footer-des6 {
+                
+                
+                position: absolute;
+                width: 120px;
+                height: 154px;
+                left: 333px;
+                top: 48px;
+                
+                    
+                font-family: 'Poppins', sans-serif;
+                font-style: normal;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 50px;
+                
+                
+                color: #52525B;
+                
+                top: 3080px;
+                left: 1065px;
+                
+                }
+                
+                .soical{
+                
+                
+                
+                width: 150px;
+                height: auto;
+                
+                
+                /* Inside auto layout */
+                flex: none;
+                order: 1;
+                flex-grow: 0;
+                
+                
+                position: absolute;
+                top: 3270px;
+                left: 40px;
+                }
+                
+                
+                
+                
+                .Footer-des7{
+                
+                
+                    position: absolute;
+                    
+                    
+                    left: 333px;
+                    top: 48px;
+                    
+                    width: 600px;
+                    font-family: 'Poppins', sans-serif;
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 12px;
+                    
+                
+                    
+                    color: #52525B;
+                    
+                    top: 3328px;
+                    left: 40px;
+                    word-spacing: 60px;
+                    }
+                
+                    .Footer-des8{
+                
+                
+                    position: absolute;
+                    
+                    width: 300px;
+                    left: 333px;
+                    top: 48px;
+                    
+                        
+                    font-family: 'Poppins', sans-serif;
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 14px;
+                    
+                    
+                    
+                    color: #52525B;
+                    
+                    top: 3328px;
+                    left: 1350px;
+                    word-spacing: 10px;
+                    }
+                  
