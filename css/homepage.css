@@ -12,7 +12,7 @@ body {
     
     }
 .hero-video {
-    width: 1519.3px;
+    max-width: 1580px;
     height: auto;
     position: absolute;
     left: 0;
