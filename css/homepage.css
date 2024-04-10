@@ -1743,3 +1743,36 @@ left: 40px;
       left: 1350px;
       word-spacing: 10px;
       }
+
+
+
+
+      @media screen and (max-width: 1450px) {
+
+
+        .hero-video {
+          width: 1519.3px;
+          height: auto;
+          position: absolute;
+          left: 0;
+          top: 0;
+      }
+
+    
+    }
+
+
+
+
+    @media screen and (max-width: 950px) {
+      
+
+      .Nav_Bar {
+        width:  400px;
+       
+      }
+
+     
+
+    }
+
