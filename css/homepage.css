@@ -1765,7 +1765,10 @@ left: 40px;
 
 
     @media screen and (max-width: 950px) {
-      
+          body {
+        overflow-x: hidden; /* Disable horizontal scrolling */
+        overflow-y: auto;   /* Enable vertical scrolling */
+    }
 
       .Nav_Bar {
         width:  400px;
